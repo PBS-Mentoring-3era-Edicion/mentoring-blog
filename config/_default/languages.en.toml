@@ -9,7 +9,7 @@ isoCode = "en"
 rtl = false
 description = "This is the official journal of our mentoring journey: we document, step by step, both my mentee’s experience and my own, from the very first lessons to the challenges of production."
 dateFormat = "2 January 2006"
-logo = "img/hc_logo.png"
+logo = "img/1.png"
 
   [params.author]
   name = "Alejandro Solares"

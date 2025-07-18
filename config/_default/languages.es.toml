@@ -9,7 +9,7 @@ isoCode = "es"
 rtl = false
 description = "Este es el diario oficial de nuestro viaje de mentoría: documentamos paso a paso tanto la experiencia de mi mentee como la mía, desde los primeros aprendizajes hasta los retos de producción."
 dateFormat = "2 January 2006"
-logo = "img/hc_logo.png"
+logo = "img/1.png"
 
   [params.author]
   name = "Alejandro Solares"
