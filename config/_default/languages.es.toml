@@ -1,13 +1,13 @@
-languageCode = "en"
-languageName = "English"
+languageCode = "es"
+languageName = "Spanish"
 weight = 1
-title = "Mentoring Blog"
+title = "Blog Mentorias"
 
 [params]
-displayName = "EN"
-isoCode = "en"
+displayName = "ES"
+isoCode = "es"
 rtl = false
-description = "This is the official journal of our mentoring journey: we document, step by step, both my mentee’s experience and my own, from the very first lessons to the challenges of production."
+description = "Este es el diario oficial de nuestro viaje de mentoría: documentamos paso a paso tanto la experiencia de mi mentee como la mía, desde los primeros aprendizajes hasta los retos de producción."
 dateFormat = "2 January 2006"
 logo = "assets\\img\\hc_logo.png"
 
