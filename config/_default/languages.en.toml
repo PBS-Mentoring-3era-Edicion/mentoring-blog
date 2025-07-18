@@ -1,0 +1,32 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Mentoring Blog"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+description = "Este es el diario oficial de nuestro viaje de mentoría: documentamos paso a paso tanto la experiencia de mi mentee como la mía, desde los primeros aprendizajes hasta los retos de producción."
+dateFormat = "2 January 2006"
+logo = "C:\\mentoring\\mentoring-blog\\assets\\img\\hc_logo.png"
+
+  [params.author]
+  name = "Red Blowfish"
+  image = "img/avatar.png"
+  headline = "This is my website with my links"
+  bio = "A little bit about you"
+
+    [[params.author.links]]
+    email = "josue.alejandro.solares@gmail.com"
+
+    [[params.author.links]]
+    github = "https://github.com/AlejandroSolares"
+
+    [[params.author.links]]
+    linkedin = "https://www.linkedin.com/in/josue-alejandro-solares-rodriguez/"
+
+["params.author"]
+name = "Alejandro Solares"
+image = "C:\\mentoring\\mentoring-blog\\assets\\img\\19656917.png"
+headline = "Cloud Specialist | Azure | AWS | GCP"
