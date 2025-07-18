@@ -9,11 +9,11 @@ isoCode = "es"
 rtl = false
 description = "Este es el diario oficial de nuestro viaje de mentoría: documentamos paso a paso tanto la experiencia de mi mentee como la mía, desde los primeros aprendizajes hasta los retos de producción."
 dateFormat = "2 January 2006"
-logo = "assets/img/hc_logo.png"
+logo = "img/hc_logo.png"
 
   [params.author]
   name = "Alejandro Solares"
-  image = "assets/img/19656917.png"
+  image = "img/19656917.png"
   headline = "Cloud Specialist | Azure | AWS | GCP"
   bio = "Un entusiasta en investigar tecnologias nuevas que permitan mejorar mis habilidades como Ingeniero DevSecOps y poder hacer que los equipos con los que trabajo se conviertan en game-changers dentro de la industria, siempre comprometido a proporcionar soluciones críticas e ideas innovadoras en los proyectos en los que trabajo, siempre buscando mejorar mis conocimientos y habilidades en temas de soluciones open-source, nube híbrida, optimización de costos, bare-metal y orquestación."
 
