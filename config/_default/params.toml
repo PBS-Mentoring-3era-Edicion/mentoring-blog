@@ -7,7 +7,7 @@ mainSections = [ "posts" ]
 firebase = { }
 fathomAnalytics = { }
 verification = { }
-defaultBackgroundImage = "assets\\img\\pexels-joshsorenson-1054397.jpg"
+defaultBackgroundImage = "pexels-joshsorenson-1054397.jpg"
 
 [header]
 layout = "fixed"
