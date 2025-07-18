@@ -9,7 +9,7 @@ isoCode = "en"
 rtl = false
 description = "Este es el diario oficial de nuestro viaje de mentoría: documentamos paso a paso tanto la experiencia de mi mentee como la mía, desde los primeros aprendizajes hasta los retos de producción."
 dateFormat = "2 January 2006"
-logo = "C:\\mentoring\\mentoring-blog\\assets\\img\\hc_logo.png"
+logo = "assets\\img\\hc_logo.png"
 
   [params.author]
   name = "Red Blowfish"
@@ -28,5 +28,5 @@ logo = "C:\\mentoring\\mentoring-blog\\assets\\img\\hc_logo.png"
 
 ["params.author"]
 name = "Alejandro Solares"
-image = "C:\\mentoring\\mentoring-blog\\assets\\img\\19656917.png"
+image = "assets\\img\\19656917.png"
 headline = "Cloud Specialist | Azure | AWS | GCP"
