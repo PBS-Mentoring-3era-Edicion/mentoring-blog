@@ -12,8 +12,8 @@ dateFormat = "2 January 2006"
 logo = "img/1.png"
 
   [params.author]
-  name = "Kathya Perez"
-  image = "img/kperez_avatar.jpeg"
+  name = "Alejandro Solares"
+  image = "img/19656917.png"
   headline = "Cloud Specialist | Azure | AWS | GCP"
   bio = "Un entusiasta en investigar tecnologias nuevas que permitan mejorar mis habilidades como Ingeniero DevSecOps y poder hacer que los equipos con los que trabajo se conviertan en game-changers dentro de la industria, siempre comprometido a proporcionar soluciones críticas e ideas innovadoras en los proyectos en los que trabajo, siempre buscando mejorar mis conocimientos y habilidades en temas de soluciones open-source, nube híbrida, optimización de costos, bare-metal y orquestación."
 
