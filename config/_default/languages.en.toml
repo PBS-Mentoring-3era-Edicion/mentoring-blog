@@ -12,8 +12,8 @@ dateFormat = "2 January 2006"
 logo = "img/1.png"
 
   [params.author]
-  name = "Alejandro Solares"
-  image = "img/19656917.png"
+  name = "Kathya Perez"
+  image = "img/kperez_avatar.jpeg"
   headline = "Cloud Specialist | Azure | AWS | GCP"
   bio = "An enthusiast of researching new technologies that enhance my skills as a DevSecOps Engineer and empower the teams I work with to become industry game-changers, always committed to delivering critical solutions and innovative ideas in my projects, and continually striving to advance my knowledge and abilities in open-source solutions, hybrid cloud, cost optimization, bare-metal, and orchestration."
 
@@ -26,3 +26,7 @@ logo = "img/1.png"
     [[params.author.links]]
     linkedin = "https://www.linkedin.com/in/josue-alejandro-solares-rodriguez/"
 
+["params.author"]
+name = "Kathya Perez"
+headline = "Estudiante de Ingeniería en Desarrollo de Software"
+bio = "Estudiante de Ingeniería en Desarrollo de Software apasionada por la programación back-end y la creación de soluciones tecnológicas. Experiencia en PHP, C# y base de datos, con proyectos de aplicaciones web y de escritorio. Destaco por mi responsabilidad, capacidad de liderazgo y trabajo colaborativo, siempre buscando optimizar procesos y adquirir nuevas herramientas."
