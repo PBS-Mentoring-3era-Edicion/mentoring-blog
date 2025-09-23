@@ -13,7 +13,7 @@ logo = "img/kathya-logo.png"
 
   [params.author]
   name = "Kathya Pérez"
-  image = "img/kathya-profile.png"
+  image = "kperez_avatar.jpeg"
   headline = "Estudiante de Ingeniería en Desarrollo de Software | Desarrolladora Backend"
   bio = "Estudiante de Ingeniería en Desarrollo de Software apasionada por la programación y la creación de soluciones tecnológicas innovadoras. Capaz de manejar con facilidad HTML, PHP, CSS y C#, con experiencia en Visual Studio y Visual Studio Code para el desarrollo de aplicaciones, sitios y páginas web. Destaco por mi responsabilidad, liderazgo y capacidad para trabajar en equipo."
 
