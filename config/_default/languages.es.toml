@@ -1,27 +1,30 @@
 languageCode = "es"
 languageName = "Spanish"
 weight = 1
-title = "Blog Mentorias"
+title = "Kathya Pérez - Portafolio"
 
 [params]
 displayName = "ES"
 isoCode = "es"
 rtl = false
-description = "Este es el diario oficial de nuestro viaje de mentoría: documentamos paso a paso tanto la experiencia de mi mentee como la mía, desde los primeros aprendizajes hasta los retos de producción."
+description = "Portafolio de Kathya Pérez - Estudiante de Ingeniería en Desarrollo de Software apasionada por la programación back-end y la creación de soluciones tecnológicas innovadoras."
 dateFormat = "2 January 2006"
-logo = "img/1.png"
+logo = "img/kathya-logo.png"
 
   [params.author]
-  name = "Alejandro Solares"
-  image = "img/19656917.png"
-  headline = "Cloud Specialist | Azure | AWS | GCP"
-  bio = "Un entusiasta en investigar tecnologias nuevas que permitan mejorar mis habilidades como Ingeniero DevSecOps y poder hacer que los equipos con los que trabajo se conviertan en game-changers dentro de la industria, siempre comprometido a proporcionar soluciones críticas e ideas innovadoras en los proyectos en los que trabajo, siempre buscando mejorar mis conocimientos y habilidades en temas de soluciones open-source, nube híbrida, optimización de costos, bare-metal y orquestación."
+  name = "Kathya Pérez"
+  image = "img/kathya-profile.png"
+  headline = "Estudiante de Ingeniería en Desarrollo de Software | Desarrolladora Backend"
+  bio = "Estudiante de Ingeniería en Desarrollo de Software apasionada por la programación y la creación de soluciones tecnológicas innovadoras. Capaz de manejar con facilidad HTML, PHP, CSS y C#, con experiencia en Visual Studio y Visual Studio Code para el desarrollo de aplicaciones, sitios y páginas web. Destaco por mi responsabilidad, liderazgo y capacidad para trabajar en equipo."
 
     [[params.author.links]]
-    email = "josue.alejandro.solares@gmail.com"
+    email = "kathyaperez117@gmail.com"
 
     [[params.author.links]]
-    github = "https://github.com/AlejandroSolares"
+    github = "https://github.com/kathyaperez"
 
     [[params.author.links]]
-    linkedin = "https://www.linkedin.com/in/josue-alejandro-solares-rodriguez/"
+    linkedin = "https://www.linkedin.com/in/kathya-perez117"
+
+    [[params.author.links]]
+    phone = "7691-8430"
