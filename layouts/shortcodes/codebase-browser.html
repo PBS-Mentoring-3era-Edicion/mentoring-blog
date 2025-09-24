@@ -1,0 +1,148 @@
+{{ $project := .Get "project" }}
+{{ $file := .Get "file" }}
+{{ $lang := .Get "lang" | default "html" }}
+{{ $lines := .Get "lines" | default "" }}
+
+<div class="codebase-browser">
+    <div class="browser-header">
+        <div class="browser-controls">
+            <span class="control close"></span>
+            <span class="control minimize"></span>
+            <span class="control maximize"></span>
+        </div>
+        <div class="browser-title">
+            📁 kathya-codebase/{{ $project }}/{{ $file }}
+        </div>
+        <div class="browser-actions">
+            <a href="/assets/kathya-codebase/{{ $project }}" target="_blank" class="view-folder">
+                <i class="fas fa-folder-open"></i> Ver carpeta
+            </a>
+        </div>
+    </div>
+
+    <div class="browser-content">
+        {{ $filePath := printf "assets/kathya-codebase/%s/%s" $project $file }}
+        {{ if (fileExists $filePath) }}
+            {{ $content := readFile $filePath }}
+            {{ if $lines }}
+                {{ $lineArray := split $lines "-" }}
+                {{ if eq (len $lineArray) 2 }}
+                    {{ $start := int (index $lineArray 0) }}
+                    {{ $end := int (index $lineArray 1) }}
+                    {{ $contentLines := split $content "\n" }}
+                    {{ $selectedLines := slice $contentLines (sub $start 1) $end }}
+                    {{ $content = delimit $selectedLines "\n" }}
+                {{ end }}
+            {{ end }}
+            {{ highlight $content $lang "linenos=table,style=github" }}
+        {{ else }}
+            <div class="code-error">
+                <i class="fas fa-exclamation-triangle"></i>
+                Archivo no encontrado: {{ $filePath }}
+            </div>
+        {{ end }}
+    </div>
+</div>
+
+<style>
+.codebase-browser {
+    background: #1e1e1e;
+    border-radius: 8px;
+    overflow: hidden;
+    margin: 1.5rem 0;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+    border: 1px solid #3c3c3c;
+}
+
+.browser-header {
+    background: #2d2d2d;
+    padding: 12px 16px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid #3c3c3c;
+}
+
+.browser-controls {
+    display: flex;
+    gap: 8px;
+}
+
+.control {
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    display: block;
+}
+
+.control.close { background: #ff5f57; }
+.control.minimize { background: #ffbd2e; }
+.control.maximize { background: #28ca42; }
+
+.browser-title {
+    color: #fff;
+    font-family: 'SF Mono', 'Monaco', 'Consolas', monospace;
+    font-size: 13px;
+    flex: 1;
+    text-align: center;
+    margin: 0 20px;
+}
+
+.browser-actions a {
+    color: #58a6ff;
+    text-decoration: none;
+    font-size: 12px;
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    padding: 4px 8px;
+    border-radius: 4px;
+    transition: background 0.2s;
+}
+
+.browser-actions a:hover {
+    background: rgba(88, 166, 255, 0.1);
+}
+
+.browser-content {
+    max-height: 500px;
+    overflow-y: auto;
+    background: #0d1117;
+}
+
+.browser-content pre {
+    margin: 0;
+    background: transparent !important;
+}
+
+.code-error {
+    padding: 2rem;
+    text-align: center;
+    color: #f85149;
+    background: #0d1117;
+}
+
+.code-error i {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    display: block;
+}
+
+/* Scrollbar styling */
+.browser-content::-webkit-scrollbar {
+    width: 8px;
+}
+
+.browser-content::-webkit-scrollbar-track {
+    background: #21262d;
+}
+
+.browser-content::-webkit-scrollbar-thumb {
+    background: #6e7681;
+    border-radius: 4px;
+}
+
+.browser-content::-webkit-scrollbar-thumb:hover {
+    background: #8b949e;
+}
+</style>
