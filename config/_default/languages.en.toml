@@ -28,8 +28,3 @@ logo = "img/kathya-logo.png"
 
     [[params.author.links]]
     phone = "7691-8430"
-
-["params.author"]
-name = "Kathya Pérez"
-headline = "Estudiante de Ingeniería en Desarrollo de Software"
-bio = "Estudiante de Ingeniería en Desarrollo de Software apasionada por la programación back-end y la creación de soluciones tecnológicas. Experiencia en PHP, C# y base de datos, con proyectos de aplicaciones web y de escritorio. Destaco por mi responsabilidad, capacidad de liderazgo y trabajo colaborativo, siempre buscando optimizar procesos y adquirir nuevas herramientas."

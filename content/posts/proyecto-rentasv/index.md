@@ -2,6 +2,7 @@
 title: "Renta SV - Plataforma de Alquileres"
 date: 2025-01-22
 draft: false
+lang: "es"
 description: "Sistema web completo para gestión de propiedades en alquiler en El Salvador"
 tags: ["PHP", "MySQL", "HTML", "CSS", "Backend"]
 categories: ["Proyectos"]

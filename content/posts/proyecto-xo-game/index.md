@@ -2,6 +2,7 @@
 title: "XO Game - Tic Tac Toe Interactivo"
 date: 2025-01-20
 draft: false
+lang: "es"
 description: "Juego de Tic Tac Toe desarrollado con JavaScript puro, demostrando lógica de programación y manipulación del DOM"
 tags: ["JavaScript", "HTML", "CSS", "Game Development", "DOM"]
 categories: ["Proyectos"]

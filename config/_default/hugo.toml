@@ -1,5 +1,16 @@
 theme = "blowfish"
 defaultContentLanguage = "en"
+
+[languages]
+[languages.en]
+languageCode = "en-US"
+languageName = "English"
+weight = 1
+
+[languages.es]
+languageCode = "es-ES"
+languageName = "Español"
+weight = 2
 enableRobotsTXT = true
 summaryLength = 30
 buildDrafts = false
