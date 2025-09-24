@@ -84,35 +84,14 @@ The website adapts perfectly to different screen sizes:
 
 *This project showcases my ability to create attractive and functional websites that help local businesses establish their online presence.*
 
-## 🔍 Explore Source Code
+## 🔍 Source Code
 
-### Main Page Structure (index.html)
-{{< highlight html "linenos=table,hl_lines=8 15-17" >}}
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ban Ban - Inicio</title>
-    <link rel="icon" href="Imágenes/logo.png">
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
-    <link rel="stylesheet" href="estilo.css">
-</head>
-<body>
-    <!-- Responsive navigation bar -->
-    <nav class="navbar navbar-expand-lg navbar-light bg-light">
-        <div class="container">
-            <a class="navbar-brand" href="index.html">
-                <img src="Imágenes/logo.jpg" width="110" height="40">
-            </a>
-        </div>
-    </nav>
-</body>
-</html>
-{{< /highlight >}}
+The complete project is available in the source code folder. It includes:
 
-### Interactive Project Browser
-{{< project-tree project="BanBan" >}}
+- **index.html**: Main page with responsive navigation
+- **productos.html**: Bakery product catalog
+- **nosotros.html**: Company information
+- **estilo.css**: Custom styles and visual theme
+- **Imágenes/**: Product gallery and graphic resources
 
 [📂 View complete project →](/assets/kathya-codebase/BanBan)

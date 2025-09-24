@@ -147,15 +147,14 @@ El sitio web se adapta perfectamente a diferentes tamaños de pantalla:
 
 *Este proyecto demuestra mi capacidad para crear sitios web atractivos y funcionales que ayudan a negocios locales a establecer su presencia online.*
 
-## 🔍 Explorar Código Fuente
+## 🔍 Código Fuente
 
-### Página Principal (index.html)
-{{< codebase-browser project="BanBan/Parcial" file="index.html" lang="html" lines="1-40" >}}
+El proyecto completo está disponible en la carpeta de código fuente. Incluye:
 
-### Estilos Personalizados (estilo.css)
-{{< codebase-browser project="BanBan/Parcial" file="estilo.css" lang="css" >}}
-
-### Página de Productos
-{{< codebase-browser project="BanBan/Parcial" file="productos.html" lang="html" lines="40-80" >}}
+- **index.html**: Página principal con navegación responsiva
+- **productos.html**: Catálogo de productos de la pastelería
+- **nosotros.html**: Información sobre la empresa
+- **estilo.css**: Estilos personalizados y tema visual
+- **Imágenes/**: Galería de productos y recursos gráficos
 
 [📂 Ver proyecto completo →](/assets/kathya-codebase/BanBan)
