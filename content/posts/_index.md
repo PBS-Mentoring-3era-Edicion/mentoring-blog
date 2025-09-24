@@ -6,7 +6,7 @@ draft: false
 showDate : false
 showDateUpdated : false
 showHeadingAnchors : false
-showPagination : false
+showPagination : true
 showReadingTime : false
 showTableOfContents : true
 showTaxonomies : false 

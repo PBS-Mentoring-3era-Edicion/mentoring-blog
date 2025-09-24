@@ -14,7 +14,11 @@ class KathyaChatWidget {
 
     async loadKnowledgeBase() {
         try {
-            const response = await fetch('/js/kathya-knowledge.json');
+            // Get base URL for GitHub Pages compatibility
+            const baseUrl = window.location.pathname.includes('/mentoring-blog/')
+                ? '/mentoring-blog'
+                : '';
+            const response = await fetch(`${baseUrl}/js/kathya-knowledge.json`);
             this.knowledgeBase = await response.json();
         } catch (error) {
             console.error('Error loading knowledge base:', error);
@@ -23,6 +27,7 @@ class KathyaChatWidget {
     }
 
     createChatWidget() {
+        console.log('Creating Kathya chat widget...');
         const widgetHTML = `
             <div id="kathya-chat-widget" class="chat-widget">
                 <button id="chat-toggle" class="chat-toggle" aria-label="Chat sobre Kathya">
@@ -216,10 +221,14 @@ class KathyaChatWidget {
 }
 
 // Inicializar el widget cuando el DOM esté listo
+console.log('Kathya Chat Widget script loaded');
 if (document.readyState === 'loading') {
+    console.log('Waiting for DOM to load...');
     document.addEventListener('DOMContentLoaded', () => {
+        console.log('DOM loaded, initializing widget...');
         new KathyaChatWidget();
     });
 } else {
+    console.log('DOM already loaded, initializing widget...');
     new KathyaChatWidget();
 }
