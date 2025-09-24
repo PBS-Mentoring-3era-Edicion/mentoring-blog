@@ -1,12 +1,14 @@
 theme = "blowfish"
 defaultContentLanguage = "en"
 enableRobotsTXT = true
-paginate = 20
 summaryLength = 30
 buildDrafts = false
 buildFuture = false
 enableEmoji = true
 baseURL = "https://pbs-mentoring-3era-edicion.github.io/mentoring-blog/"
+
+[pagination]
+pagerSize = 20
 
 [taxonomies]
 tag = "tags"

@@ -1,12 +1,12 @@
 ---
-title: "Kathya Pérez: Mi Mentee en el Mundo del Desarrollo de Software"
+title: "Kathya Pérez: Desarrolladora de Software en Formación"
 date: 2025-01-24
 draft: false
 description: "Conoce a Kathya Pérez, estudiante de Ingeniería en Desarrollo de Software y sus proyectos destacados"
 tags: ["mentoring", "desarrollo", "estudiante", "portfolio"]
 categories: ["Mentorías"]
 authors:
-  - "josue-solares"
+  - "kathyaperez"
 showAuthor: true
 showAuthorBadges: true
 showHero: true
@@ -15,16 +15,16 @@ showSummary: true
 showTableOfContents: true
 ---
 
-## 👩‍💻 Conoce a Kathya Pérez
+## 👩‍💻 Sobre Mí
 
-Kathya es una apasionada estudiante de Ingeniería en Desarrollo de Software en la Universidad Católica de El Salvador. Con una sólida formación técnica y una actitud proactiva hacia el aprendizaje, ha demostrado ser una mentee excepcional con un futuro prometedor en el mundo tech.
+Soy una apasionada estudiante de Ingeniería en Desarrollo de Software en la Universidad Católica de El Salvador. Con una sólida formación técnica y una actitud proactiva hacia el aprendizaje, me dedico a crear soluciones tecnológicas innovadoras y funcionales.
 
 ## 🎓 Formación Académica
 
 ### Universidad Católica de El Salvador
 **Ingeniería en Desarrollo de Software** (2024 - Presente)
 
-Kathya está construyendo una base sólida en:
+Estoy construyendo una base sólida en:
 - Programación orientada a objetos
 - Desarrollo web full-stack
 - Bases de datos relacionales
@@ -116,13 +116,13 @@ Juego interactivo desarrollado con JavaScript:
 
 ## 🎯 Objetivos Profesionales
 
-Kathya busca:
-1. Especializarse en desarrollo de aplicaciones web modernas
+Busco:
+1. Especializarme en desarrollo de aplicaciones web modernas
 2. Contribuir a proyectos open source
 3. Desarrollar soluciones tecnológicas innovadoras para problemas reales
-4. Continuar su formación en tecnologías emergentes
+4. Continuar mi formación en tecnologías emergentes
 
-## 📊 Progreso en el Programa de Mentoría
+## 📊 Mi Progreso Técnico
 
 ### Logros Alcanzados
 - ✅ Dominio de fundamentos de programación
@@ -138,15 +138,11 @@ Kathya busca:
 
 ## 💬 Testimonios
 
-> "Kathya demuestra una capacidad excepcional para absorber nuevos conceptos y aplicarlos de manera práctica. Su dedicación y entusiasmo la convierten en una mentee ejemplar."
->
-> **- Josué Solares, Mentor**
-
 > "Es una estudiante destacada que combina habilidades técnicas sólidas con una actitud proactiva hacia el aprendizaje continuo."
 >
-> **- Jhoni Torres, Docente de Computación**
+> **- Jhoni Torres, Docente de Computación, Programa Oportunidades FGK**
 
-## 🤝 Conecta con Kathya
+## 🤝 Contáctame
 
 - 📧 Email: kathyaperez117@gmail.com
 - 🔗 LinkedIn: [linkedin.com/in/kathya-perez117](https://www.linkedin.com/in/kathya-perez117)
@@ -154,4 +150,4 @@ Kathya busca:
 
 ---
 
-*¿Tienes preguntas sobre Kathya o sus proyectos? Utiliza el chat interactivo en la esquina inferior derecha para conocer más detalles.*
+*¿Tienes preguntas sobre mí o mis proyectos? Utiliza el chat interactivo en la esquina inferior derecha para conocer más detalles.*
