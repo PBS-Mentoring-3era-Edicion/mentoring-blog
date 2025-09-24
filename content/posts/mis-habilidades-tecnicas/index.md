@@ -2,7 +2,6 @@
 title: "Mis Habilidades Técnicas - Stack de Desarrollo"
 date: 2025-01-19
 draft: false
-lang: "es"
 description: "Resumen completo de mis competencias técnicas, herramientas y tecnologías dominadas"
 tags: ["skills", "tecnología", "programación", "desarrollo"]
 categories: ["Perfil Profesional"]

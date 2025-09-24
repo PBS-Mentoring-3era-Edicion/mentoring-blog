@@ -2,7 +2,6 @@
 title: "Ban Ban - Pastelería Digital"
 date: 2025-01-23
 draft: false
-lang: "es"
 description: "Sitio web elegante para pastelería local con catálogo interactivo"
 tags: ["HTML", "CSS", "Bootstrap", "proyecto"]
 categories: ["Proyectos"]

@@ -1,0 +1,69 @@
+{{ $currentPage := . }}
+{{ $currentSection := .Section }}
+{{ $currentSlug := .File.BaseFileName }}
+
+<div class="language-switcher">
+    <div class="language-toggle">
+        {{ if eq $currentSlug "index" }}
+            <span class="lang-active">🇪🇸 ES</span>
+            {{ $englishPath := printf "%s/index.en.md" .File.Dir }}
+            {{ if fileExists (printf "content/%s" $englishPath) }}
+                <a href="{{ .Permalink | replaceRE `index/$` `index.en/` }}" class="lang-link">🇺🇸 EN</a>
+            {{ end }}
+        {{ else if eq $currentSlug "index.en" }}
+            {{ $spanishPath := printf "%s/index.md" .File.Dir }}
+            {{ if fileExists (printf "content/%s" $spanishPath) }}
+                <a href="{{ .Permalink | replaceRE `index\.en/$` `` }}" class="lang-link">🇪🇸 ES</a>
+            {{ end }}
+            <span class="lang-active">🇺🇸 EN</span>
+        {{ end }}
+    </div>
+</div>
+
+<style>
+.language-switcher {
+    position: fixed;
+    top: 100px;
+    right: 20px;
+    z-index: 1000;
+    background: rgba(0, 0, 0, 0.7);
+    border-radius: 20px;
+    padding: 8px 12px;
+    backdrop-filter: blur(10px);
+}
+
+.language-toggle {
+    display: flex;
+    gap: 8px;
+    align-items: center;
+}
+
+.lang-active {
+    color: #fff;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.lang-link {
+    color: #ccc;
+    text-decoration: none;
+    font-size: 14px;
+    transition: color 0.2s;
+}
+
+.lang-link:hover {
+    color: #fff;
+}
+
+@media (max-width: 768px) {
+    .language-switcher {
+        top: 80px;
+        right: 10px;
+        padding: 6px 10px;
+    }
+
+    .lang-active, .lang-link {
+        font-size: 12px;
+    }
+}
+</style>

@@ -2,7 +2,6 @@
 title: "Sistema Web para Restaurante"
 date: 2025-01-21
 draft: false
-lang: "es"
 description: "Aplicación web completa con sistema de reservaciones y gestión de menú digital"
 tags: ["JavaScript", "PHP", "HTML", "CSS", "FullStack"]
 categories: ["Proyectos"]

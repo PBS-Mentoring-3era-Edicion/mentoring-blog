@@ -2,7 +2,6 @@
 title: "Kathya Pérez: Desarrolladora de Software en Formación"
 date: 2025-01-24
 draft: false
-lang: "es"
 description: "Conoce a Kathya Pérez, estudiante de Ingeniería en Desarrollo de Software y sus proyectos destacados"
 tags: ["mentoring", "desarrollo", "estudiante", "portfolio"]
 categories: ["Mentorías"]
