@@ -1,5 +1,4 @@
-{{ $currentPage := . }}
-{{ $currentSection := .Section }}
+{{ if .File }}
 {{ $currentSlug := .File.BaseFileName }}
 
 <div class="language-switcher">
@@ -19,6 +18,7 @@
         {{ end }}
     </div>
 </div>
+{{ end }}
 
 <style>
 .language-switcher {

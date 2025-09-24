@@ -6,7 +6,6 @@ description: "Primera sesión: definimos proyecto en GitHub, organización, ento
 tags: ["mentoría","inicio","GitHub","Scrum","entorno"]
 showAuthor: true
 authors:
-    - "alejandrosolares"
     - "kathyaperez"
 ---
 
