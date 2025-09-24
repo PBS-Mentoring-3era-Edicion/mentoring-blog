@@ -13,7 +13,7 @@ logo = "img/kathya-logo.png"
 
   [params.author]
   name = "Kathya Pérez"
-  image = "kperez_avatar.jpeg"
+  image = "img/kperez_avatar.jpeg"
   headline = "Software Engineering Student | Backend Developer"
   bio = "Student of Software Engineering passionate about programming and creating innovative technological solutions. Proficient in HTML, PHP, CSS, and C#, with experience using Visual Studio and Visual Studio Code for developing applications, sites, and web pages. Known for responsibility, leadership, and teamwork capabilities."
 
