@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Programming on Kathya Pérez - Portfolio</title>
+    <link>http://localhost:1313/mentoring-blog/tags/programming/</link>
+    <description>Recent content in Programming on Kathya Pérez - Portfolio</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 19 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mentoring-blog/tags/programming/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Technical Skills - Development Stack</title>
+      <link>http://localhost:1313/mentoring-blog/posts/mis-habilidades-tecnicas/</link>
+      <pubDate>Sun, 19 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mentoring-blog/posts/mis-habilidades-tecnicas/</guid>
+      <description>&lt;h2 id=&#34;-my-technological-arsenal&#34;&gt;💻 My Technological Arsenal&lt;/h2&gt;&#xA;&lt;p&gt;As a Software Development Engineering student, I have built a solid set of technical skills that allow me to tackle complete projects from frontend to backend. Here I show you the technologies I master and how I apply them in my projects.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

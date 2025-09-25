@@ -1,1 +1,54 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Red Blowfish</title><link>//localhost:1313/posts/</link><description>Recent content in Posts on Red Blowfish</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© 2024 Red Blowfish</copyright><lastBuildDate>Mon, 13 Jun 2022 20:55:37 +0100</lastBuildDate><atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Super cool article that I wrote</title><link>//localhost:1313/posts/post-lite-one/</link><pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/post-lite-one/</guid><description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean in eleifend justo, vestibulum congue lacus. Quisque est libero, lacinia sed placerat ac, interdum id urna.</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/post-lite-one/cover.png"/></item><item><title>Super cool article that I wrote</title><link>//localhost:1313/posts/post-lite-three/</link><pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/post-lite-three/</guid><description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean in eleifend justo, vestibulum congue lacus. Quisque est libero, lacinia sed placerat ac, interdum id urna.</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/post-lite-three/cover.png"/></item><item><title>Super cool article that I wrote</title><link>//localhost:1313/posts/post-lite-two/</link><pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/post-lite-two/</guid><description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean in eleifend justo, vestibulum congue lacus. Quisque est libero, lacinia sed placerat ac, interdum id urna.</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/post-lite-two/cover.png"/></item><item><title>Super cool article that I wrote</title><link>//localhost:1313/posts/post-lite-four/</link><pubDate>Sat, 04 Sep 2021 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/post-lite-four/</guid><description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean in eleifend justo, vestibulum congue lacus. Quisque est libero, lacinia sed placerat ac, interdum id urna.</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/post-lite-four/cover.png"/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Kathya Pérez - Portfolio</title>
+    <link>http://localhost:1313/mentoring-blog/posts/</link>
+    <description>Recent content in Posts on Kathya Pérez - Portfolio</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 24 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mentoring-blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kathya Pérez: Software Developer in Training</title>
+      <link>http://localhost:1313/mentoring-blog/posts/kathya-perez-journey/</link>
+      <pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mentoring-blog/posts/kathya-perez-journey/</guid>
+      <description>&lt;h2 id=&#34;-about-me&#34;&gt;👩‍💻 About Me&lt;/h2&gt;&#xA;&lt;p&gt;I am a passionate Software Development Engineering student at Universidad Católica de El Salvador. With a solid technical foundation and a proactive attitude towards learning, I am dedicated to creating innovative and functional technological solutions.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ban Ban - Digital Bakery</title>
+      <link>http://localhost:1313/mentoring-blog/posts/proyecto-banban/</link>
+      <pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mentoring-blog/posts/proyecto-banban/</guid>
+      <description>&lt;h2 id=&#34;-project-description&#34;&gt;📋 Project Description&lt;/h2&gt;&#xA;&lt;p&gt;Ban Ban is a complete website developed for a local bakery in El Salvador. The project demonstrates skills in responsive web design and frontend development.&lt;/p&gt;&#xA;&lt;h2 id=&#34;-technologies-used&#34;&gt;🛠️ Technologies Used&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;HTML5&lt;/li&gt;&#xA;&lt;li&gt;CSS3&lt;/li&gt;&#xA;&lt;li&gt;Bootstrap 5&lt;/li&gt;&#xA;&lt;li&gt;Font Awesome Icons&lt;/li&gt;&#xA;&lt;li&gt;JavaScript&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-main-features&#34;&gt;✨ Main Features&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Product Catalog&lt;/strong&gt;: Visual presentation of cakes and desserts&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Responsive Design&lt;/strong&gt;: Adaptable to all devices&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Intuitive Navigation&lt;/strong&gt;: Clear and accessible menu&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Social Integration&lt;/strong&gt;: Links to Facebook and Instagram&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Image Gallery&lt;/strong&gt;: Visual showcase of products&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-project-structure&#34;&gt;📂 Project Structure&lt;/h2&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;BanBan/&#xA;├── index.html&#xA;├── productos.html&#xA;├── nosotros.html&#xA;├── estilo.css&#xA;└── Imágenes/&#xA;    ├── pastel.jpg&#xA;    ├── tartaleta.jpg&#xA;    └── ...&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;-key-learnings&#34;&gt;🎯 Key Learnings&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Bootstrap implementation for responsive design&lt;/li&gt;&#xA;&lt;li&gt;Image optimization for web&lt;/li&gt;&#xA;&lt;li&gt;Semantic HTML structure&lt;/li&gt;&#xA;&lt;li&gt;Integration of external icons and fonts&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-design-highlights&#34;&gt;🎨 Design Highlights&lt;/h2&gt;&#xA;&lt;h3 id=&#34;visual-identity&#34;&gt;Visual Identity&lt;/h3&gt;&#xA;&lt;p&gt;The site uses a warm color palette that reflects the artisanal nature of the bakery:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Renta SV - Rental Platform</title>
+      <link>http://localhost:1313/mentoring-blog/posts/proyecto-rentasv/</link>
+      <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mentoring-blog/posts/proyecto-rentasv/</guid>
+      <description>&lt;h2 id=&#34;-project-description&#34;&gt;📋 Project Description&lt;/h2&gt;&#xA;&lt;p&gt;Renta SV is a web platform developed to facilitate the management and search of rental properties in El Salvador. This project demonstrates my skills in backend development with PHP and MySQL database management.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Restaurant Web System</title>
+      <link>http://localhost:1313/mentoring-blog/posts/proyecto-restaurante/</link>
+      <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mentoring-blog/posts/proyecto-restaurante/</guid>
+      <description>&lt;h2 id=&#34;-project-description&#34;&gt;🍽️ Project Description&lt;/h2&gt;&#xA;&lt;p&gt;Comprehensive web system developed for a local restaurant, including digital menu presentation, online reservation system, and interactive gallery. This project combines my frontend and backend skills to create a complete customer experience.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>XO Game - Interactive Tic Tac Toe</title>
+      <link>http://localhost:1313/mentoring-blog/posts/proyecto-xo-game/</link>
+      <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mentoring-blog/posts/proyecto-xo-game/</guid>
+      <description>&lt;h2 id=&#34;-project-description&#34;&gt;🎮 Project Description&lt;/h2&gt;&#xA;&lt;p&gt;XO Game is a modern implementation of the classic Tic Tac Toe game, developed entirely with vanilla JavaScript. This project demonstrates my skills in programming logic, DOM manipulation, and creating interactive interfaces without external dependencies.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My Technical Skills - Development Stack</title>
+      <link>http://localhost:1313/mentoring-blog/posts/mis-habilidades-tecnicas/</link>
+      <pubDate>Sun, 19 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mentoring-blog/posts/mis-habilidades-tecnicas/</guid>
+      <description>&lt;h2 id=&#34;-my-technological-arsenal&#34;&gt;💻 My Technological Arsenal&lt;/h2&gt;&#xA;&lt;p&gt;As a Software Development Engineering student, I have built a solid set of technical skills that allow me to tackle complete projects from frontend to backend. Here I show you the technologies I master and how I apply them in my projects.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

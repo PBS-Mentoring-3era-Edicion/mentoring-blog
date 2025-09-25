@@ -1,27 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Kathya Pérez on Kathya Pérez - Portfolio</title>
-    <link>http://localhost:1313/mentoring-blog/</link>
-    <description>Recent content in Kathya Pérez on Kathya Pérez - Portfolio</description>
+    <title>CSS on Kathya Pérez - Portfolio</title>
+    <link>http://localhost:1313/mentoring-blog/tags/css/</link>
+    <description>Recent content in CSS on Kathya Pérez - Portfolio</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 15 Jun 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/mentoring-blog/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Mentoría - 15/06/2025</title>
-      <link>http://localhost:1313/mentoring-blog/mentorias/1753141752580-mentoria---15/07/2025/</link>
-      <pubDate>Sun, 15 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mentoring-blog/mentorias/1753141752580-mentoria---15/07/2025/</guid>
-      <description>&lt;h1 id=&#34;primera-sesión-de-mentoría&#34;&gt;Primera sesión de mentoría&lt;/h1&gt;&#xA;&lt;p&gt;Hoy, Kathya y yo dimos los primeros pasos en este viaje de &lt;strong&gt;mentoría&lt;/strong&gt;:&lt;/p&gt;&#xA;&lt;h2 id=&#34;definición-del-proyecto-en-github&#34;&gt;Definición del proyecto en GitHub&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Creamos el repositorio principal &lt;code&gt;habitat_chronicles&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Establecimos una &lt;strong&gt;organización&lt;/strong&gt; en GitHub para agrupar y ordenar todos los proyectos relacionados.&lt;/li&gt;&#xA;&lt;li&gt;Acordamos las convenciones de la estructura básica del proyecto.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;entorno-de-desarrollo&#34;&gt;Entorno de desarrollo&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Instalación de &lt;strong&gt;VS Code&lt;/strong&gt; y extensiones recomendadas.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;conceptos-iniciales&#34;&gt;Conceptos iniciales&lt;/h2&gt;&#xA;&lt;h3 id=&#34;qué-es-un-repositorio&#34;&gt;¿Qué es un repositorio?&lt;/h3&gt;&#xA;&lt;p&gt;Un repositorio (o &lt;strong&gt;repo&lt;/strong&gt;) es un espacio donde guardamos todo el código, historial de cambios y colaboraciones de un proyecto.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Kathya Pérez: Software Developer in Training</title>
-      <link>http://localhost:1313/mentoring-blog/posts/kathya-perez-journey/</link>
-      <pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mentoring-blog/posts/kathya-perez-journey/</guid>
-      <description>&lt;h2 id=&#34;-about-me&#34;&gt;👩‍💻 About Me&lt;/h2&gt;&#xA;&lt;p&gt;I am a passionate Software Development Engineering student at Universidad Católica de El Salvador. With a solid technical foundation and a proactive attitude towards learning, I am dedicated to creating innovative and functional technological solutions.&lt;/p&gt;</description>
-    </item>
+    <lastBuildDate>Thu, 23 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mentoring-blog/tags/css/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ban Ban - Digital Bakery</title>
       <link>http://localhost:1313/mentoring-blog/posts/proyecto-banban/</link>
@@ -49,20 +35,6 @@
       <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/mentoring-blog/posts/proyecto-xo-game/</guid>
       <description>&lt;h2 id=&#34;-project-description&#34;&gt;🎮 Project Description&lt;/h2&gt;&#xA;&lt;p&gt;XO Game is a modern implementation of the classic Tic Tac Toe game, developed entirely with vanilla JavaScript. This project demonstrates my skills in programming logic, DOM manipulation, and creating interactive interfaces without external dependencies.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>My Technical Skills - Development Stack</title>
-      <link>http://localhost:1313/mentoring-blog/posts/mis-habilidades-tecnicas/</link>
-      <pubDate>Sun, 19 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mentoring-blog/posts/mis-habilidades-tecnicas/</guid>
-      <description>&lt;h2 id=&#34;-my-technological-arsenal&#34;&gt;💻 My Technological Arsenal&lt;/h2&gt;&#xA;&lt;p&gt;As a Software Development Engineering student, I have built a solid set of technical skills that allow me to tackle complete projects from frontend to backend. Here I show you the technologies I master and how I apply them in my projects.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Acerca de Mí</title>
-      <link>http://localhost:1313/mentoring-blog/about/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mentoring-blog/about/</guid>
-      <description>&lt;h2 id=&#34;-hola-soy-kathya-pérez&#34;&gt;👋 Hola, soy Kathya Pérez&lt;/h2&gt;&#xA;&lt;p&gt;Soy una dedicada &lt;strong&gt;estudiante de Ingeniería en Desarrollo de Software&lt;/strong&gt; en la Universidad Católica de El Salvador, apasionada por crear soluciones tecnológicas innovadoras que marquen la diferencia.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

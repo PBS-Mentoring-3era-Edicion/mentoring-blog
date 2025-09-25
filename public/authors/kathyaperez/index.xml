@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Kathya Pérez on Kathya Pérez - Portfolio</title>
-    <link>http://localhost:1313/mentoring-blog/</link>
-    <description>Recent content in Kathya Pérez on Kathya Pérez - Portfolio</description>
+    <title>Kathyaperez on Kathya Pérez - Portfolio</title>
+    <link>http://localhost:1313/mentoring-blog/authors/kathyaperez/</link>
+    <description>Recent content in Kathyaperez on Kathya Pérez - Portfolio</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 15 Jun 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/mentoring-blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/mentoring-blog/authors/kathyaperez/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mentoría - 15/06/2025</title>
       <link>http://localhost:1313/mentoring-blog/mentorias/1753141752580-mentoria---15/07/2025/</link>
@@ -56,13 +56,6 @@
       <pubDate>Sun, 19 Jan 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/mentoring-blog/posts/mis-habilidades-tecnicas/</guid>
       <description>&lt;h2 id=&#34;-my-technological-arsenal&#34;&gt;💻 My Technological Arsenal&lt;/h2&gt;&#xA;&lt;p&gt;As a Software Development Engineering student, I have built a solid set of technical skills that allow me to tackle complete projects from frontend to backend. Here I show you the technologies I master and how I apply them in my projects.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Acerca de Mí</title>
-      <link>http://localhost:1313/mentoring-blog/about/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mentoring-blog/about/</guid>
-      <description>&lt;h2 id=&#34;-hola-soy-kathya-pérez&#34;&gt;👋 Hola, soy Kathya Pérez&lt;/h2&gt;&#xA;&lt;p&gt;Soy una dedicada &lt;strong&gt;estudiante de Ingeniería en Desarrollo de Software&lt;/strong&gt; en la Universidad Católica de El Salvador, apasionada por crear soluciones tecnológicas innovadoras que marquen la diferencia.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

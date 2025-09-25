@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolio on Kathya Pérez - Portfolio</title>
+    <link>http://localhost:1313/mentoring-blog/tags/portfolio/</link>
+    <description>Recent content in Portfolio on Kathya Pérez - Portfolio</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 24 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mentoring-blog/tags/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kathya Pérez: Software Developer in Training</title>
+      <link>http://localhost:1313/mentoring-blog/posts/kathya-perez-journey/</link>
+      <pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mentoring-blog/posts/kathya-perez-journey/</guid>
+      <description>&lt;h2 id=&#34;-about-me&#34;&gt;👩‍💻 About Me&lt;/h2&gt;&#xA;&lt;p&gt;I am a passionate Software Development Engineering student at Universidad Católica de El Salvador. With a solid technical foundation and a proactive attitude towards learning, I am dedicated to creating innovative and functional technological solutions.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

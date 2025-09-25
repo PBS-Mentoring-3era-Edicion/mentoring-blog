@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Entorno on Kathya Pérez - Portfolio</title>
+    <link>http://localhost:1313/mentoring-blog/tags/entorno/</link>
+    <description>Recent content in Entorno on Kathya Pérez - Portfolio</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 15 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mentoring-blog/tags/entorno/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mentoría - 15/06/2025</title>
+      <link>http://localhost:1313/mentoring-blog/mentorias/1753141752580-mentoria---15/07/2025/</link>
+      <pubDate>Sun, 15 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mentoring-blog/mentorias/1753141752580-mentoria---15/07/2025/</guid>
+      <description>&lt;h1 id=&#34;primera-sesión-de-mentoría&#34;&gt;Primera sesión de mentoría&lt;/h1&gt;&#xA;&lt;p&gt;Hoy, Kathya y yo dimos los primeros pasos en este viaje de &lt;strong&gt;mentoría&lt;/strong&gt;:&lt;/p&gt;&#xA;&lt;h2 id=&#34;definición-del-proyecto-en-github&#34;&gt;Definición del proyecto en GitHub&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Creamos el repositorio principal &lt;code&gt;habitat_chronicles&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Establecimos una &lt;strong&gt;organización&lt;/strong&gt; en GitHub para agrupar y ordenar todos los proyectos relacionados.&lt;/li&gt;&#xA;&lt;li&gt;Acordamos las convenciones de la estructura básica del proyecto.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;entorno-de-desarrollo&#34;&gt;Entorno de desarrollo&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Instalación de &lt;strong&gt;VS Code&lt;/strong&gt; y extensiones recomendadas.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;conceptos-iniciales&#34;&gt;Conceptos iniciales&lt;/h2&gt;&#xA;&lt;h3 id=&#34;qué-es-un-repositorio&#34;&gt;¿Qué es un repositorio?&lt;/h3&gt;&#xA;&lt;p&gt;Un repositorio (o &lt;strong&gt;repo&lt;/strong&gt;) es un espacio donde guardamos todo el código, historial de cambios y colaboraciones de un proyecto.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

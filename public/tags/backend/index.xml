@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Backend on Kathya Pérez - Portfolio</title>
+    <link>http://localhost:1313/mentoring-blog/tags/backend/</link>
+    <description>Recent content in Backend on Kathya Pérez - Portfolio</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 22 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mentoring-blog/tags/backend/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Renta SV - Rental Platform</title>
+      <link>http://localhost:1313/mentoring-blog/posts/proyecto-rentasv/</link>
+      <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mentoring-blog/posts/proyecto-rentasv/</guid>
+      <description>&lt;h2 id=&#34;-project-description&#34;&gt;📋 Project Description&lt;/h2&gt;&#xA;&lt;p&gt;Renta SV is a web platform developed to facilitate the management and search of rental properties in El Salvador. This project demonstrates my skills in backend development with PHP and MySQL database management.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
