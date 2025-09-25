@@ -2,32 +2,42 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Kathya Pérez - Portfolio</title>
-    <link>http://localhost:1313/mentoring-blog/categories/</link>
+    <link>http://localhost:1314/mentoring-blog/categories/</link>
     <description>Recent content in Categories on Kathya Pérez - Portfolio</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 24 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/mentoring-blog/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2025 </copyright>
+    <lastBuildDate>Fri, 24 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1314/mentoring-blog/categories/index.xml" rel="self" type="application/rss+xml" />
+    
     <item>
       <title>Portfolio</title>
-      <link>http://localhost:1313/mentoring-blog/categories/portfolio/</link>
+      <link>http://localhost:1314/mentoring-blog/categories/portfolio/</link>
       <pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mentoring-blog/categories/portfolio/</guid>
+      
+      <guid>http://localhost:1314/mentoring-blog/categories/portfolio/</guid>
       <description></description>
+      
     </item>
+    
     <item>
       <title>Projects</title>
-      <link>http://localhost:1313/mentoring-blog/categories/projects/</link>
+      <link>http://localhost:1314/mentoring-blog/categories/projects/</link>
       <pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mentoring-blog/categories/projects/</guid>
+      
+      <guid>http://localhost:1314/mentoring-blog/categories/projects/</guid>
       <description></description>
+      
     </item>
+    
     <item>
       <title>Professional Profile</title>
-      <link>http://localhost:1313/mentoring-blog/categories/professional-profile/</link>
+      <link>http://localhost:1314/mentoring-blog/categories/professional-profile/</link>
       <pubDate>Sun, 19 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mentoring-blog/categories/professional-profile/</guid>
+      
+      <guid>http://localhost:1314/mentoring-blog/categories/professional-profile/</guid>
       <description></description>
+      
     </item>
+    
   </channel>
 </rss>

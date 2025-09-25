@@ -1,264 +1,306 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
   <url>
-    <loc>http://localhost:1313/mentoring-blog/authors/</loc>
+    <loc>http://localhost:1314/mentoring-blog/authors/</loc>
     <lastmod>2025-06-15T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://localhost:1313/mentoring-blog/es/authors/"
-                />
+      rel="alternate"
+      hreflang="es"
+      href="http://localhost:1314/mentoring-blog/es/authors/"
+    />
     <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/mentoring-blog/authors/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/mentoring-blog/tags/entorno/</loc>
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1314/mentoring-blog/authors/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1314/mentoring-blog/tags/entorno/</loc>
     <lastmod>2025-06-15T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/mentoring-blog/tags/github/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1314/mentoring-blog/tags/github/</loc>
     <lastmod>2025-06-15T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/mentoring-blog/tags/inicio/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1314/mentoring-blog/tags/inicio/</loc>
     <lastmod>2025-06-15T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/mentoring-blog/</loc>
-    <lastmod>2025-06-15T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://localhost:1313/mentoring-blog/es/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/mentoring-blog/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/mentoring-blog/authors/kathyaperez/</loc>
-    <lastmod>2025-06-15T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/mentoring-blog/tags/mentor%C3%ADa/</loc>
-    <lastmod>2025-06-15T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/mentoring-blog/mentorias/1753141752580-mentoria---15/07/2025/</loc>
-    <lastmod>2025-06-15T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/mentoring-blog/mentorias/</loc>
-    <lastmod>2025-06-15T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/mentoring-blog/tags/scrum/</loc>
-    <lastmod>2025-06-15T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/mentoring-blog/tags/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1314/mentoring-blog/</loc>
     <lastmod>2025-06-15T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://localhost:1313/mentoring-blog/es/tags/"
-                />
+      rel="alternate"
+      hreflang="es"
+      href="http://localhost:1314/mentoring-blog/es/"
+    />
     <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/mentoring-blog/tags/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/mentoring-blog/categories/</loc>
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1314/mentoring-blog/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1314/mentoring-blog/authors/kathyaperez/</loc>
+    <lastmod>2025-06-15T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1314/mentoring-blog/tags/mentor%C3%ADa/</loc>
+    <lastmod>2025-06-15T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1314/mentoring-blog/mentorias/1753141752580-mentoria---15/07/2025/</loc>
+    <lastmod>2025-06-15T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1314/mentoring-blog/mentorias/</loc>
+    <lastmod>2025-06-15T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1314/mentoring-blog/tags/scrum/</loc>
+    <lastmod>2025-06-15T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1314/mentoring-blog/tags/</loc>
+    <lastmod>2025-06-15T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="http://localhost:1314/mentoring-blog/es/tags/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1314/mentoring-blog/tags/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1314/mentoring-blog/categories/</loc>
     <lastmod>2025-01-24T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://localhost:1313/mentoring-blog/es/categories/"
-                />
+      rel="alternate"
+      hreflang="es"
+      href="http://localhost:1314/mentoring-blog/es/categories/"
+    />
     <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/mentoring-blog/categories/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/mentoring-blog/tags/development/</loc>
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1314/mentoring-blog/categories/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1314/mentoring-blog/tags/development/</loc>
     <lastmod>2025-01-24T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/mentoring-blog/posts/kathya-perez-journey/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1314/mentoring-blog/posts/kathya-perez-journey/</loc>
     <lastmod>2025-01-24T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/mentoring-blog/tags/mentoring/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1314/mentoring-blog/tags/mentoring/</loc>
     <lastmod>2025-01-24T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/mentoring-blog/categories/portfolio/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1314/mentoring-blog/categories/portfolio/</loc>
     <lastmod>2025-01-24T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/mentoring-blog/tags/portfolio/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1314/mentoring-blog/tags/portfolio/</loc>
     <lastmod>2025-01-24T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/mentoring-blog/tags/student/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1314/mentoring-blog/tags/student/</loc>
     <lastmod>2025-01-24T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/mentoring-blog/posts/proyecto-banban/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1314/mentoring-blog/posts/proyecto-banban/</loc>
     <lastmod>2025-01-23T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/mentoring-blog/tags/bootstrap/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1314/mentoring-blog/tags/bootstrap/</loc>
     <lastmod>2025-01-23T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/mentoring-blog/tags/css/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1314/mentoring-blog/tags/css/</loc>
     <lastmod>2025-01-23T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/mentoring-blog/tags/html/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1314/mentoring-blog/tags/html/</loc>
     <lastmod>2025-01-23T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/mentoring-blog/tags/project/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1314/mentoring-blog/tags/project/</loc>
     <lastmod>2025-01-23T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/mentoring-blog/categories/projects/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1314/mentoring-blog/categories/projects/</loc>
     <lastmod>2025-01-23T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/mentoring-blog/tags/backend/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1314/mentoring-blog/tags/backend/</loc>
     <lastmod>2025-01-22T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/mentoring-blog/tags/mysql/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1314/mentoring-blog/tags/mysql/</loc>
     <lastmod>2025-01-22T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/mentoring-blog/tags/php/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1314/mentoring-blog/tags/php/</loc>
     <lastmod>2025-01-22T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/mentoring-blog/posts/proyecto-rentasv/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1314/mentoring-blog/posts/proyecto-rentasv/</loc>
     <lastmod>2025-01-22T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/mentoring-blog/tags/fullstack/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1314/mentoring-blog/tags/fullstack/</loc>
     <lastmod>2025-01-21T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/mentoring-blog/tags/javascript/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1314/mentoring-blog/tags/javascript/</loc>
     <lastmod>2025-01-21T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/mentoring-blog/posts/proyecto-restaurante/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1314/mentoring-blog/posts/proyecto-restaurante/</loc>
     <lastmod>2025-01-21T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/mentoring-blog/tags/dom/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1314/mentoring-blog/tags/dom/</loc>
     <lastmod>2025-01-20T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/mentoring-blog/tags/game-development/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1314/mentoring-blog/tags/game-development/</loc>
     <lastmod>2025-01-20T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/mentoring-blog/posts/proyecto-xo-game/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1314/mentoring-blog/posts/proyecto-xo-game/</loc>
     <lastmod>2025-01-20T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/mentoring-blog/posts/mis-habilidades-tecnicas/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1314/mentoring-blog/posts/mis-habilidades-tecnicas/</loc>
     <lastmod>2025-01-19T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/mentoring-blog/categories/professional-profile/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1314/mentoring-blog/categories/professional-profile/</loc>
     <lastmod>2025-01-19T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/mentoring-blog/tags/programming/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1314/mentoring-blog/tags/programming/</loc>
     <lastmod>2025-01-19T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/mentoring-blog/tags/skills/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1314/mentoring-blog/tags/skills/</loc>
     <lastmod>2025-01-19T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/mentoring-blog/tags/technology/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1314/mentoring-blog/tags/technology/</loc>
     <lastmod>2025-01-19T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/mentoring-blog/about/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1314/mentoring-blog/about/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/mentoring-blog/posts/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1314/mentoring-blog/posts/</loc>
     <lastmod>2022-06-13T20:55:37+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/mentoring-blog/series/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1314/mentoring-blog/series/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://localhost:1313/mentoring-blog/es/series/"
-                />
+      rel="alternate"
+      hreflang="es"
+      href="http://localhost:1314/mentoring-blog/es/series/"
+    />
     <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/mentoring-blog/series/"
-                />
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1314/mentoring-blog/series/"
+    />
   </url>
 </urlset>

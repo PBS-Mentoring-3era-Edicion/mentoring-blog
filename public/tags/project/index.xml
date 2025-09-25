@@ -2,18 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Project on Kathya Pérez - Portfolio</title>
-    <link>http://localhost:1313/mentoring-blog/tags/project/</link>
+    <link>http://localhost:1314/mentoring-blog/tags/project/</link>
     <description>Recent content in Project on Kathya Pérez - Portfolio</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 23 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/mentoring-blog/tags/project/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2025 </copyright>
+    <lastBuildDate>Thu, 23 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1314/mentoring-blog/tags/project/index.xml" rel="self" type="application/rss+xml" />
+    
     <item>
       <title>Ban Ban - Digital Bakery</title>
-      <link>http://localhost:1313/mentoring-blog/posts/proyecto-banban/</link>
+      <link>http://localhost:1314/mentoring-blog/posts/proyecto-banban/</link>
       <pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mentoring-blog/posts/proyecto-banban/</guid>
-      <description>&lt;h2 id=&#34;-project-description&#34;&gt;📋 Project Description&lt;/h2&gt;&#xA;&lt;p&gt;Ban Ban is a complete website developed for a local bakery in El Salvador. The project demonstrates skills in responsive web design and frontend development.&lt;/p&gt;&#xA;&lt;h2 id=&#34;-technologies-used&#34;&gt;🛠️ Technologies Used&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;HTML5&lt;/li&gt;&#xA;&lt;li&gt;CSS3&lt;/li&gt;&#xA;&lt;li&gt;Bootstrap 5&lt;/li&gt;&#xA;&lt;li&gt;Font Awesome Icons&lt;/li&gt;&#xA;&lt;li&gt;JavaScript&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-main-features&#34;&gt;✨ Main Features&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Product Catalog&lt;/strong&gt;: Visual presentation of cakes and desserts&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Responsive Design&lt;/strong&gt;: Adaptable to all devices&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Intuitive Navigation&lt;/strong&gt;: Clear and accessible menu&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Social Integration&lt;/strong&gt;: Links to Facebook and Instagram&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Image Gallery&lt;/strong&gt;: Visual showcase of products&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-project-structure&#34;&gt;📂 Project Structure&lt;/h2&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;BanBan/&#xA;├── index.html&#xA;├── productos.html&#xA;├── nosotros.html&#xA;├── estilo.css&#xA;└── Imágenes/&#xA;    ├── pastel.jpg&#xA;    ├── tartaleta.jpg&#xA;    └── ...&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;-key-learnings&#34;&gt;🎯 Key Learnings&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Bootstrap implementation for responsive design&lt;/li&gt;&#xA;&lt;li&gt;Image optimization for web&lt;/li&gt;&#xA;&lt;li&gt;Semantic HTML structure&lt;/li&gt;&#xA;&lt;li&gt;Integration of external icons and fonts&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-design-highlights&#34;&gt;🎨 Design Highlights&lt;/h2&gt;&#xA;&lt;h3 id=&#34;visual-identity&#34;&gt;Visual Identity&lt;/h3&gt;&#xA;&lt;p&gt;The site uses a warm color palette that reflects the artisanal nature of the bakery:&lt;/p&gt;</description>
+      
+      <guid>http://localhost:1314/mentoring-blog/posts/proyecto-banban/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;📋 Project Description 
+    &lt;div id=&#34;-project-description&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#-project-description&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;Ban Ban is a complete website developed for a local bakery in El Salvador. The project demonstrates skills in responsive web design and frontend development.&lt;/p&gt;</description>
+      
     </item>
+    
   </channel>
 </rss>
