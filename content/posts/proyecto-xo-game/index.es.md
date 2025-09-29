@@ -1,18 +1,17 @@
 ---
-title: "XO Game - Tic Tac Toe Interactivo"
-date: 2025-01-20
+title: "XO - Juego de Tres en Raya Temático con JavaScript"
+date: 2024-09-28
 draft: false
-description: "Juego de Tic Tac Toe desarrollado con JavaScript puro, demostrando lógica de programación y manipulación del DOM"
-tags: ["JavaScript", "HTML", "CSS", "Game Development", "DOM"]
-categories: ["Proyectos"]
+description: "Juego interactivo de Tic-Tac-Toe con temática gótica desarrollado con HTML5, CSS3 y JavaScript vanilla, demostrando manipulación del DOM, algoritmos de juego y manejo de eventos."
+tags: ["JavaScript","HTML","CSS","DOM Manipulation","Game Development","Front-End","Algorithms"]
+showAuthor: true
 authors:
-  - "kathyaperez"
-showTableOfContents: true
+    - "kathyaperez"
 ---
 
 ## 🎮 Descripción del Proyecto
 
-XO Game es una implementación moderna del clásico juego Tic Tac Toe (tres en raya), desarrollado completamente con JavaScript vanilla. Este proyecto demuestra mis habilidades en lógica de programación, manipulación del DOM y creación de interfaces interactivas sin dependencias externas.
+**XO - Destino Final** es un juego interactivo de tres en raya (Tic-Tac-Toe) con una temática gótica y oscura. Desarrollado completamente con JavaScript vanilla, HTML5 y CSS3, demuestra competencias avanzadas en manipulación del DOM, lógica de juego, algoritmos de detección de victorias y manejo de eventos del navegador.
 
 ## 🎯 Objetivos del Proyecto
 
