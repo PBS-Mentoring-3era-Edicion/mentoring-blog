@@ -87,9 +87,10 @@
 
 .quick-questions button {
     background: white;
+    color: #333;
     border: 1px solid #ddd;
     padding: 8px 12px;
-    border-radius: 20px;
+    border-radius: 15px;
     cursor: pointer;
     font-size: 12px;
     text-align: left;
@@ -102,13 +103,19 @@
     border-color: #667eea;
 }
 
+#kathya-chat-messages {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
 .user-message, .bot-message {
-    margin: 10px 0;
     padding: 10px 15px;
     border-radius: 15px;
     max-width: 80%;
     font-size: 14px;
     line-height: 1.4;
+    word-wrap: break-word;
 }
 
 .user-message {

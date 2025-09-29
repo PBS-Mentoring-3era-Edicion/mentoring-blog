@@ -7,7 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <copyright>© 2025 </copyright>
-    <atom:link href="http://localhost:1314/mentoring-blog/es/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 24 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1314/mentoring-blog/es/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Mentorías</title>
+      <link>http://localhost:1314/mentoring-blog/es/categories/mentor%C3%ADas/</link>
+      <pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1314/mentoring-blog/es/categories/mentor%C3%ADas/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Proyectos</title>
+      <link>http://localhost:1314/mentoring-blog/es/categories/proyectos/</link>
+      <pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1314/mentoring-blog/es/categories/proyectos/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Perfil Profesional</title>
+      <link>http://localhost:1314/mentoring-blog/es/categories/perfil-profesional/</link>
+      <pubDate>Sun, 19 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1314/mentoring-blog/es/categories/perfil-profesional/</guid>
+      <description></description>
+      
+    </item>
     
   </channel>
 </rss>

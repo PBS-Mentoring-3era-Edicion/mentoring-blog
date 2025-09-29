@@ -1,13 +1,279 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Kathya Pérez - Portafolio</title>
+    <title>Kathya Pérez on Kathya Pérez - Portafolio</title>
     <link>http://localhost:1314/mentoring-blog/es/</link>
-    <description>Recent content on Kathya Pérez - Portafolio</description>
+    <description>Recent content in Kathya Pérez on Kathya Pérez - Portafolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <copyright>© 2025 </copyright>
-    <atom:link href="http://localhost:1314/mentoring-blog/es/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 24 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1314/mentoring-blog/es/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Kathya Pérez: Desarrolladora de Software en Formación</title>
+      <link>http://localhost:1314/mentoring-blog/es/posts/kathya-perez-journey/</link>
+      <pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1314/mentoring-blog/es/posts/kathya-perez-journey/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;👩‍💻 Sobre Mí 
+    &lt;div id=&#34;-sobre-mí&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#-sobre-m%c3%ad&#34; aria-label=&#34;Ancla&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;Soy una apasionada estudiante de Ingeniería en Desarrollo de Software en la Universidad Católica de El Salvador. Con una sólida formación técnica y una actitud proactiva hacia el aprendizaje, me dedico a crear soluciones tecnológicas innovadoras y funcionales.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Ban Ban - Pastelería Digital</title>
+      <link>http://localhost:1314/mentoring-blog/es/posts/proyecto-banban/</link>
+      <pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1314/mentoring-blog/es/posts/proyecto-banban/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;📋 Descripción del Proyecto 
+    &lt;div id=&#34;-descripción-del-proyecto&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#-descripci%c3%b3n-del-proyecto&#34; aria-label=&#34;Ancla&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;Ban Ban es un sitio web completo desarrollado para una pastelería local en El Salvador. El proyecto demuestra mis habilidades en diseño web responsivo y desarrollo frontend.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Renta SV - Plataforma de Alquileres</title>
+      <link>http://localhost:1314/mentoring-blog/es/posts/proyecto-rentasv/</link>
+      <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1314/mentoring-blog/es/posts/proyecto-rentasv/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;📋 Descripción del Proyecto 
+    &lt;div id=&#34;-descripción-del-proyecto&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#-descripci%c3%b3n-del-proyecto&#34; aria-label=&#34;Ancla&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;Renta SV es una plataforma web desarrollada para facilitar la gestión y búsqueda de propiedades en alquiler en El Salvador. Este proyecto demuestra mis habilidades en desarrollo backend con PHP y gestión de bases de datos MySQL.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Sistema Web para Restaurante</title>
+      <link>http://localhost:1314/mentoring-blog/es/posts/proyecto-restaurante/</link>
+      <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1314/mentoring-blog/es/posts/proyecto-restaurante/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;🍽️ Descripción del Proyecto 
+    &lt;div id=&#34;-descripción-del-proyecto&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#-descripci%c3%b3n-del-proyecto&#34; aria-label=&#34;Ancla&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;Sistema web integral desarrollado para un restaurante local, que incluye presentación del menú digital, sistema de reservaciones en línea y galería interactiva. Este proyecto combina mis habilidades en frontend y backend para crear una experiencia completa para los clientes.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Mis Habilidades Técnicas - Stack de Desarrollo</title>
+      <link>http://localhost:1314/mentoring-blog/es/posts/mis-habilidades-tecnicas/</link>
+      <pubDate>Sun, 19 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1314/mentoring-blog/es/posts/mis-habilidades-tecnicas/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;💻 Mi Arsenal Tecnológico 
+    &lt;div id=&#34;-mi-arsenal-tecnológico&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#-mi-arsenal-tecnol%c3%b3gico&#34; aria-label=&#34;Ancla&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;Como estudiante de Ingeniería en Desarrollo de Software, he construido un sólido conjunto de habilidades técnicas que me permiten abordar proyectos completos desde el frontend hasta el backend. Aquí te muestro las tecnologías que domino y cómo las aplico en mis proyectos.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>XO - Juego de Tres en Raya Temático con JavaScript</title>
+      <link>http://localhost:1314/mentoring-blog/es/posts/content/posts/proyecto-xo-game/</link>
+      <pubDate>Sat, 28 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1314/mentoring-blog/es/posts/content/posts/proyecto-xo-game/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;🎮 Descripción del Proyecto 
+    &lt;div id=&#34;-descripción-del-proyecto&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#-descripci%c3%b3n-del-proyecto&#34; aria-label=&#34;Ancla&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;XO - Destino Final&lt;/strong&gt; es un juego interactivo de tres en raya (Tic-Tac-Toe) con una temática gótica y oscura. Desarrollado completamente con JavaScript vanilla, HTML5 y CSS3, demuestra competencias avanzadas en manipulación del DOM, lógica de juego, algoritmos de detección de victorias y manejo de eventos del navegador.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>XO - Juego de Tres en Raya Temático con JavaScript</title>
+      <link>http://localhost:1314/mentoring-blog/es/posts/proyecto-xo-game/</link>
+      <pubDate>Sat, 28 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1314/mentoring-blog/es/posts/proyecto-xo-game/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;🎮 Descripción del Proyecto 
+    &lt;div id=&#34;-descripción-del-proyecto&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#-descripci%c3%b3n-del-proyecto&#34; aria-label=&#34;Ancla&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;XO - Destino Final&lt;/strong&gt; es un juego interactivo de tres en raya (Tic-Tac-Toe) con una temática gótica y oscura. Desarrollado completamente con JavaScript vanilla, HTML5 y CSS3, demuestra competencias avanzadas en manipulación del DOM, lógica de juego, algoritmos de detección de victorias y manejo de eventos del navegador.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Sistema de Restaurante - Gestión de Pedidos en C#</title>
+      <link>http://localhost:1314/mentoring-blog/es/posts/content/posts/proyecto-restaurante-system/</link>
+      <pubDate>Wed, 25 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1314/mentoring-blog/es/posts/content/posts/proyecto-restaurante-system/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;🍽️ Descripción 
+    &lt;div id=&#34;-descripción&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#-descripci%c3%b3n&#34; aria-label=&#34;Ancla&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Sistema de Restaurante&lt;/strong&gt; es una aplicación de consola en C# que simula un sistema completo de gestión de pedidos. Incluye menú interactivo, cálculo automático de precios, delivery, tiempo de preparación y pago con cambio.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Sistema de Restaurante - Gestión de Pedidos en C#</title>
+      <link>http://localhost:1314/mentoring-blog/es/posts/proyecto-restaurante-system/</link>
+      <pubDate>Wed, 25 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1314/mentoring-blog/es/posts/proyecto-restaurante-system/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;🍽️ Descripción del Proyecto 
+    &lt;div id=&#34;-descripción-del-proyecto&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#-descripci%c3%b3n-del-proyecto&#34; aria-label=&#34;Ancla&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Sistema de Restaurante&lt;/strong&gt; es una aplicación de consola en C# que simula un sistema completo de gestión de pedidos para un restaurante. El proyecto incluye menú interactivo, cálculo automático de precios, manejo de cantidades, opciones de delivery, tiempo de preparación y sistema de pago con cambio. Demuestra uso avanzado de estructuras de datos como &lt;code&gt;Dictionary&lt;/code&gt; y &lt;code&gt;List&lt;/code&gt;.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Renta SV - Calculadora de Nómina en C#</title>
+      <link>http://localhost:1314/mentoring-blog/es/posts/content/posts/proyecto-renta-sv-calculator/</link>
+      <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1314/mentoring-blog/es/posts/content/posts/proyecto-renta-sv-calculator/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;💼 Descripción del Proyecto 
+    &lt;div id=&#34;-descripción-del-proyecto&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#-descripci%c3%b3n-del-proyecto&#34; aria-label=&#34;Ancla&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Renta SV&lt;/strong&gt; es una aplicación de consola en C# que automatiza el cálculo de nómina para empleados en El Salvador, aplicando deducciones legales (ISSS, AFP) y cálculo de renta por tramos.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Renta SV - Calculadora de Nómina en C#</title>
+      <link>http://localhost:1314/mentoring-blog/es/posts/proyecto-renta-sv-calculator/</link>
+      <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1314/mentoring-blog/es/posts/proyecto-renta-sv-calculator/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;💼 Descripción del Proyecto 
+    &lt;div id=&#34;-descripción-del-proyecto&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#-descripci%c3%b3n-del-proyecto&#34; aria-label=&#34;Ancla&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Renta SV&lt;/strong&gt; es una aplicación de consola desarrollada en C# que automatiza el cálculo de nómina para empleados en El Salvador, aplicando las leyes laborales locales de deducciones (ISSS, AFP) y cálculo de renta por tramos. El proyecto demuestra competencia en programación backend, lógica condicional compleja y manejo de datos numéricos.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Ban Ban - Sitio Web Moderno para Pastelería</title>
+      <link>http://localhost:1314/mentoring-blog/es/posts/content/posts/proyecto-banban-website/</link>
+      <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1314/mentoring-blog/es/posts/content/posts/proyecto-banban-website/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;🎂 Descripción del Proyecto 
+    &lt;div id=&#34;-descripción-del-proyecto&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#-descripci%c3%b3n-del-proyecto&#34; aria-label=&#34;Ancla&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Ban Ban&lt;/strong&gt; es un sitio web moderno y responsive desarrollado para la pastelería salvadoreña &amp;ldquo;Ban Ban Desde 1975&amp;rdquo;. El proyecto demuestra habilidades en desarrollo front-end, diseño de interfaces y uso de Bootstrap 5.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Ban Ban - Sitio Web Moderno para Pastelería</title>
+      <link>http://localhost:1314/mentoring-blog/es/posts/proyecto-banban-website/</link>
+      <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1314/mentoring-blog/es/posts/proyecto-banban-website/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;🎂 Descripción del Proyecto 
+    &lt;div id=&#34;-descripción-del-proyecto&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#-descripci%c3%b3n-del-proyecto&#34; aria-label=&#34;Ancla&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Ban Ban&lt;/strong&gt; es un sitio web moderno y responsive desarrollado para la reconocida pastelería salvadoreña &amp;ldquo;Ban Ban Desde 1975&amp;rdquo;. El proyecto demuestra habilidades en desarrollo front-end, diseño de interfaces de usuario y uso de frameworks modernos como Bootstrap 5.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Acerca de Mí</title>
+      <link>http://localhost:1314/mentoring-blog/es/about/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1314/mentoring-blog/es/about/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;👋 Hola, soy Kathya Pérez 
+    &lt;div id=&#34;-hola-soy-kathya-pérez&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#-hola-soy-kathya-p%c3%a9rez&#34; aria-label=&#34;Ancla&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;Soy una dedicada &lt;strong&gt;estudiante de Ingeniería en Desarrollo de Software&lt;/strong&gt; en la Universidad Católica de El Salvador, apasionada por crear soluciones tecnológicas innovadoras que marquen la diferencia.&lt;/p&gt;</description>
+      
+    </item>
     
   </channel>
 </rss>

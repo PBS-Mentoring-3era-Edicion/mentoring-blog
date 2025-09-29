@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <copyright>© 2025 </copyright>
-    <atom:link href="http://localhost:1314/mentoring-blog/es/authors/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 24 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1314/mentoring-blog/es/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Kathyaperez</title>
+      <link>http://localhost:1314/mentoring-blog/es/authors/kathyaperez/</link>
+      <pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1314/mentoring-blog/es/authors/kathyaperez/</guid>
+      <description></description>
+      
+    </item>
     
   </channel>
 </rss>

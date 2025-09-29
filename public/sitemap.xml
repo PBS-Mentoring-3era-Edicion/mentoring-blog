@@ -4,12 +4,14 @@
   <sitemap>
     <loc>http://localhost:1314/mentoring-blog/en/sitemap.xml</loc>
     
-      <lastmod>2025-06-15T00:00:00+00:00</lastmod>
+      <lastmod>2025-01-24T00:00:00+00:00</lastmod>
     
   </sitemap>
   
   <sitemap>
     <loc>http://localhost:1314/mentoring-blog/es/sitemap.xml</loc>
+    
+      <lastmod>2025-01-24T00:00:00+00:00</lastmod>
     
   </sitemap>
   

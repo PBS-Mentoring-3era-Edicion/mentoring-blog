@@ -7,57 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 </copyright>
-    <lastBuildDate>Sun, 15 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1314/mentoring-blog/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Entorno</title>
-      <link>http://localhost:1314/mentoring-blog/tags/entorno/</link>
-      <pubDate>Sun, 15 Jun 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1314/mentoring-blog/tags/entorno/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>GitHub</title>
-      <link>http://localhost:1314/mentoring-blog/tags/github/</link>
-      <pubDate>Sun, 15 Jun 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1314/mentoring-blog/tags/github/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Inicio</title>
-      <link>http://localhost:1314/mentoring-blog/tags/inicio/</link>
-      <pubDate>Sun, 15 Jun 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1314/mentoring-blog/tags/inicio/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Mentoría</title>
-      <link>http://localhost:1314/mentoring-blog/tags/mentor%C3%ADa/</link>
-      <pubDate>Sun, 15 Jun 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1314/mentoring-blog/tags/mentor%C3%ADa/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Scrum</title>
-      <link>http://localhost:1314/mentoring-blog/tags/scrum/</link>
-      <pubDate>Sun, 15 Jun 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1314/mentoring-blog/tags/scrum/</guid>
-      <description></description>
-      
-    </item>
+    <lastBuildDate>Fri, 24 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1314/mentoring-blog/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Development</title>
@@ -235,6 +185,136 @@
       <pubDate>Sun, 19 Jan 2025 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1314/mentoring-blog/tags/technology/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Algorithms</title>
+      <link>http://localhost:1314/mentoring-blog/tags/algorithms/</link>
+      <pubDate>Sat, 28 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1314/mentoring-blog/tags/algorithms/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>DOM Manipulation</title>
+      <link>http://localhost:1314/mentoring-blog/tags/dom-manipulation/</link>
+      <pubDate>Sat, 28 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1314/mentoring-blog/tags/dom-manipulation/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Front-End</title>
+      <link>http://localhost:1314/mentoring-blog/tags/front-end/</link>
+      <pubDate>Sat, 28 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1314/mentoring-blog/tags/front-end/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>.NET</title>
+      <link>http://localhost:1314/mentoring-blog/tags/.net/</link>
+      <pubDate>Wed, 25 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1314/mentoring-blog/tags/.net/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Business Logic</title>
+      <link>http://localhost:1314/mentoring-blog/tags/business-logic/</link>
+      <pubDate>Wed, 25 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1314/mentoring-blog/tags/business-logic/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>C#</title>
+      <link>http://localhost:1314/mentoring-blog/tags/c%23/</link>
+      <pubDate>Wed, 25 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1314/mentoring-blog/tags/c%23/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Collections</title>
+      <link>http://localhost:1314/mentoring-blog/tags/collections/</link>
+      <pubDate>Wed, 25 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1314/mentoring-blog/tags/collections/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Console Application</title>
+      <link>http://localhost:1314/mentoring-blog/tags/console-application/</link>
+      <pubDate>Wed, 25 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1314/mentoring-blog/tags/console-application/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Data Structures</title>
+      <link>http://localhost:1314/mentoring-blog/tags/data-structures/</link>
+      <pubDate>Wed, 25 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1314/mentoring-blog/tags/data-structures/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Back-End</title>
+      <link>http://localhost:1314/mentoring-blog/tags/back-end/</link>
+      <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1314/mentoring-blog/tags/back-end/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Programming Logic</title>
+      <link>http://localhost:1314/mentoring-blog/tags/programming-logic/</link>
+      <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1314/mentoring-blog/tags/programming-logic/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>UI/UX</title>
+      <link>http://localhost:1314/mentoring-blog/tags/ui/ux/</link>
+      <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1314/mentoring-blog/tags/ui/ux/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Web Design</title>
+      <link>http://localhost:1314/mentoring-blog/tags/web-design/</link>
+      <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1314/mentoring-blog/tags/web-design/</guid>
       <description></description>
       
     </item>

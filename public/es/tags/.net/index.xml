@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>.NET on Kathya Pérez - Portafolio</title>
+    <link>http://localhost:1314/mentoring-blog/es/tags/.net/</link>
+    <description>Recent content in .NET on Kathya Pérez - Portafolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <copyright>© 2025 </copyright>
+    <lastBuildDate>Wed, 25 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1314/mentoring-blog/es/tags/.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Sistema de Restaurante - Gestión de Pedidos en C#</title>
+      <link>http://localhost:1314/mentoring-blog/es/posts/content/posts/proyecto-restaurante-system/</link>
+      <pubDate>Wed, 25 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1314/mentoring-blog/es/posts/content/posts/proyecto-restaurante-system/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;🍽️ Descripción 
+    &lt;div id=&#34;-descripción&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#-descripci%c3%b3n&#34; aria-label=&#34;Ancla&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Sistema de Restaurante&lt;/strong&gt; es una aplicación de consola en C# que simula un sistema completo de gestión de pedidos. Incluye menú interactivo, cálculo automático de precios, delivery, tiempo de preparación y pago con cambio.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Sistema de Restaurante - Gestión de Pedidos en C#</title>
+      <link>http://localhost:1314/mentoring-blog/es/posts/proyecto-restaurante-system/</link>
+      <pubDate>Wed, 25 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1314/mentoring-blog/es/posts/proyecto-restaurante-system/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;🍽️ Descripción del Proyecto 
+    &lt;div id=&#34;-descripción-del-proyecto&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#-descripci%c3%b3n-del-proyecto&#34; aria-label=&#34;Ancla&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Sistema de Restaurante&lt;/strong&gt; es una aplicación de consola en C# que simula un sistema completo de gestión de pedidos para un restaurante. El proyecto incluye menú interactivo, cálculo automático de precios, manejo de cantidades, opciones de delivery, tiempo de preparación y sistema de pago con cambio. Demuestra uso avanzado de estructuras de datos como &lt;code&gt;Dictionary&lt;/code&gt; y &lt;code&gt;List&lt;/code&gt;.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Renta SV - Calculadora de Nómina en C#</title>
+      <link>http://localhost:1314/mentoring-blog/es/posts/content/posts/proyecto-renta-sv-calculator/</link>
+      <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1314/mentoring-blog/es/posts/content/posts/proyecto-renta-sv-calculator/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;💼 Descripción del Proyecto 
+    &lt;div id=&#34;-descripción-del-proyecto&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#-descripci%c3%b3n-del-proyecto&#34; aria-label=&#34;Ancla&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Renta SV&lt;/strong&gt; es una aplicación de consola en C# que automatiza el cálculo de nómina para empleados en El Salvador, aplicando deducciones legales (ISSS, AFP) y cálculo de renta por tramos.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Renta SV - Calculadora de Nómina en C#</title>
+      <link>http://localhost:1314/mentoring-blog/es/posts/proyecto-renta-sv-calculator/</link>
+      <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1314/mentoring-blog/es/posts/proyecto-renta-sv-calculator/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;💼 Descripción del Proyecto 
+    &lt;div id=&#34;-descripción-del-proyecto&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#-descripci%c3%b3n-del-proyecto&#34; aria-label=&#34;Ancla&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Renta SV&lt;/strong&gt; es una aplicación de consola desarrollada en C# que automatiza el cálculo de nómina para empleados en El Salvador, aplicando las leyes laborales locales de deducciones (ISSS, AFP) y cálculo de renta por tramos. El proyecto demuestra competencia en programación backend, lógica condicional compleja y manejo de datos numéricos.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>
