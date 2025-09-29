@@ -1,0 +1,41 @@
+# -- Main Menu --
+# The main menu is displayed in the header at the top of the page.
+# Acceptable parameters are name, pageRef, page, url, title, weight.
+
+[[main]]
+  name = "Publicaciones"
+  pageRef = "posts"
+  weight = 10
+
+[[main]]
+  name = "Etiquetas"
+  pageRef = "tags"
+  weight = 20
+
+[[main]]
+  identifier = "web"
+  pre = "link"
+  url = "https://nunocoracao.github.io/blowfish/"
+  weight = 40
+
+[[main]]
+  identifier = "github"
+  pre = "github"
+  url = "https://github.com/nunocoracao/blowfish"
+  weight = 50
+
+[[main]]
+  identifier = "twitter"
+  pre = "twitter"
+  url = "https://twitter.com/burufugu"
+  weight = 60
+
+
+# -- Footer Menu --
+# The footer menu is displayed at the bottom of the page, just before
+# the copyright notice.
+
+[[footer]]
+  name = "Etiquetas"
+  pageRef = "tags"
+  weight = 10

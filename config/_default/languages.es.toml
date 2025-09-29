@@ -1,6 +1,13 @@
 languageCode = "es"
-languageName = "Spanish"
-weight = 1
+languageName = "Español"
+weight = 2
 title = "Kathya Pérez - Portafolio"
 
+[params]
+displayName = "ES"
+isoCode = "es"
+rtl = false
+description = "Portafolio de Kathya Pérez - Estudiante de Ingeniería en Desarrollo de Software apasionada por el desarrollo back-end y la creación de soluciones tecnológicas innovadoras."
+dateFormat = "2 January 2006"
+logo = "img/kathya-logo.png"
 
