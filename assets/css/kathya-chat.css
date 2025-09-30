@@ -67,6 +67,7 @@
     padding: 15px;
     overflow-y: auto;
     background: #f8f9fa;
+    min-height: 0;
 }
 
 .chat-message {
