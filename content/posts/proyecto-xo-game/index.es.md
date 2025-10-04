@@ -189,22 +189,7 @@ function checkWinner() {
 
 ### 📊 Repositorio de GitHub
 
-<div style="border: 1px solid #d0d7de; border-radius: 6px; padding: 16px; margin: 16px 0;">
-  <h4 style="margin-top: 0;">
-    <a href="https://github.com/PBS-Mentoring-3era-Edicion/XO" target="_blank" style="text-decoration: none; color: #0969da;">
-      🎮 PBS-Mentoring-3era-Edicion/XO
-    </a>
-  </h4>
-  <p>Juego interactivo de Tic-Tac-Toe - JavaScript puro, HTML5, CSS3</p>
-  <p>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
-    <img src="https://img.shields.io/badge/HTML-E34C26?style=flat&logo=html5&logoColor=white" alt="HTML">
-    <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS">
-  </p>
-  <a href="https://github.com/PBS-Mentoring-3era-Edicion/XO" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #2ea043; color: white; text-decoration: none; border-radius: 6px; font-weight: 500;">
-    Ver en GitHub →
-  </a>
-</div>
+[![GitHub](https://img.shields.io/badge/GitHub-PBS--Mentoring--3era--Edicion%2FXO-181717?style=for-the-badge&logo=github)](https://github.com/PBS-Mentoring-3era-Edicion/XO)
 
 ---
 
