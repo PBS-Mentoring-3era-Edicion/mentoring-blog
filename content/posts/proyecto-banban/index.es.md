@@ -166,5 +166,3 @@ Ver en GitHub →
 ### 📊 Repositorio de GitHub
 
 {{< github repo="PBS-Mentoring-3era-Edicion/BanBan" >}}
-
-[📂 Ver código fuente local →](/assets/kathya-codebase/BanBan)
