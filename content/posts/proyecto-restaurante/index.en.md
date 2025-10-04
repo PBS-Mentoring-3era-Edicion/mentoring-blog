@@ -139,13 +139,25 @@ restaurant/
 
 ## 🔗 Project Links
 
-{{< button href="https://github.com/PBS-Mentoring-3era-Edicion/RestauranteKathyaPerez" target="_blank" >}}
-View on GitHub →
-{{< /button >}}
-
 ### 📊 GitHub Repository
 
-{{< github repo="PBS-Mentoring-3era-Edicion/RestauranteKathyaPerez" >}}
+<div style="border: 1px solid #d0d7de; border-radius: 6px; padding: 16px; margin: 16px 0;">
+  <h4 style="margin-top: 0;">
+    <a href="https://github.com/PBS-Mentoring-3era-Edicion/RestauranteKathyaPerez" target="_blank" style="text-decoration: none; color: #0969da;">
+      🍽️ PBS-Mentoring-3era-Edicion/RestauranteKathyaPerez
+    </a>
+  </h4>
+  <p>Complete restaurant management system - PHP, MySQL, JavaScript</p>
+  <p>
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
+    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap">
+  </p>
+  <a href="https://github.com/PBS-Mentoring-3era-Edicion/RestauranteKathyaPerez" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #2ea043; color: white; text-decoration: none; border-radius: 6px; font-weight: 500;">
+    View on GitHub →
+  </a>
+</div>
 
 ---
 
