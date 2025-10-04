@@ -92,13 +92,25 @@ RentaSV/
 
 ## 🔗 Enlaces del Proyecto
 
-{{< button href="https://github.com/PBS-Mentoring-3era-Edicion/RentalKathyaPerez" target="_blank" >}}
-Ver en GitHub →
-{{< /button >}}
-
 ### 📊 Repositorio de GitHub
 
-{{< github repo="PBS-Mentoring-3era-Edicion/RentalKathyaPerez" >}}
+<div style="border: 1px solid #d0d7de; border-radius: 6px; padding: 16px; margin: 16px 0;">
+  <h4 style="margin-top: 0;">
+    <a href="https://github.com/PBS-Mentoring-3era-Edicion/RentalKathyaPerez" target="_blank" style="text-decoration: none; color: #0969da;">
+      🏠 PBS-Mentoring-3era-Edicion/RentalKathyaPerez
+    </a>
+  </h4>
+  <p>Plataforma web para gestión de propiedades en alquiler - PHP, MySQL</p>
+  <p>
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL">
+    <img src="https://img.shields.io/badge/HTML-E34C26?style=flat&logo=html5&logoColor=white" alt="HTML">
+    <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS">
+  </p>
+  <a href="https://github.com/PBS-Mentoring-3era-Edicion/RentalKathyaPerez" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #2ea043; color: white; text-decoration: none; border-radius: 6px; font-weight: 500;">
+    Ver en GitHub →
+  </a>
+</div>
 
 ---
 
