@@ -21,21 +21,21 @@
   weight = 20
 
 [[main]]
-  identifier = "web"
-  pre = "link"
-  url = "https://nunocoracao.github.io/blowfish/"
+  identifier = "linkedin"
+  pre = "linkedin"
+  url = "https://www.linkedin.com/in/kathya-perez117"
   weight = 40
 
 [[main]]
   identifier = "github"
   pre = "github"
-  url = "https://github.com/nunocoracao/blowfish"
+  url = "https://github.com/PBS-Mentoring-3era-Edicion"
   weight = 50
 
 [[main]]
-  identifier = "twitter"
-  pre = "twitter"
-  url = "https://twitter.com/burufugu"
+  identifier = "email"
+  pre = "email"
+  url = "mailto:kathyaperez117@gmail.com"
   weight = 60
 
 
