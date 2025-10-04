@@ -137,6 +137,16 @@ restaurante/
 3. **Performance Matters**: Optimización como prioridad
 4. **Business Logic**: Traducir requerimientos de negocio a código
 
+## 🔗 Enlaces del Proyecto
+
+{{< button href="https://github.com/PBS-Mentoring-3era-Edicion/RestauranteKathyaPerez" target="_blank" >}}
+Ver en GitHub →
+{{< /button >}}
+
+### 📊 Repositorio de GitHub
+
+{{< github repo="PBS-Mentoring-3era-Edicion/RestauranteKathyaPerez" >}}
+
 ---
 
 *Este proyecto representa mi capacidad para desarrollar soluciones completas que resuelven problemas reales de negocio, combinando diseño atractivo con funcionalidad robusta.*

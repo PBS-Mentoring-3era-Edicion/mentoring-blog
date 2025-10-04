@@ -90,6 +90,16 @@ RentaSV/
 
 *Las capturas de pantalla del proyecto están disponibles en la carpeta del proyecto*
 
+## 🔗 Enlaces del Proyecto
+
+{{< button href="https://github.com/PBS-Mentoring-3era-Edicion/RentalKathyaPerez" target="_blank" >}}
+Ver en GitHub →
+{{< /button >}}
+
+### 📊 Repositorio de GitHub
+
+{{< github repo="PBS-Mentoring-3era-Edicion/RentalKathyaPerez" >}}
+
 ---
 
 *Este proyecto fue desarrollado como parte de mi formación en desarrollo web backend, demostrando competencias en PHP, MySQL y arquitectura de aplicaciones web.*

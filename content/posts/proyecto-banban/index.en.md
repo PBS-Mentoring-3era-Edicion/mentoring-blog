@@ -94,4 +94,14 @@ The complete project is available in the source code folder. It includes:
 - **estilo.css**: Custom styles and visual theme
 - **Imágenes/**: Product gallery and graphic resources
 
-[📂 View complete project →](/assets/kathya-codebase/BanBan)
+## 🔗 Project Links
+
+{{< button href="https://github.com/PBS-Mentoring-3era-Edicion/BanBan" target="_blank" >}}
+View on GitHub →
+{{< /button >}}
+
+### 📊 GitHub Repository
+
+{{< github repo="PBS-Mentoring-3era-Edicion/BanBan" >}}
+
+[📂 View local source code →](/assets/kathya-codebase/BanBan)

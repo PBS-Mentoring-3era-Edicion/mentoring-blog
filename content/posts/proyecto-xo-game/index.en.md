@@ -186,6 +186,16 @@ function checkWinner() {
 - **State Management**: State control without frameworks
 - **Clean Code**: Readable and maintainable code
 
+## 🔗 Project Links
+
+{{< button href="https://github.com/PBS-Mentoring-3era-Edicion/XO" target="_blank" >}}
+View on GitHub →
+{{< /button >}}
+
+### 📊 GitHub Repository
+
+{{< github repo="PBS-Mentoring-3era-Edicion/XO" >}}
+
 ---
 
 *This project demonstrates my ability to create complete interactive applications with pure JavaScript, focusing on user experience and development best practices.*

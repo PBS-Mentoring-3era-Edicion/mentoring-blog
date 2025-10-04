@@ -97,7 +97,7 @@ Juego interactivo desarrollado con JavaScript:
 - Detección automática de ganador
 - Modo para dos jugadores
 
-[Ver Proyecto](/posts/proyecto-xo)
+[Ver Proyecto](/posts/proyecto-xo-game)
 
 ## 🌟 Competencias y Habilidades
 

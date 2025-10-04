@@ -90,6 +90,16 @@ RentaSV/
 
 *Project screenshots are available in the project folder*
 
+## 🔗 Project Links
+
+{{< button href="https://github.com/PBS-Mentoring-3era-Edicion/RentalKathyaPerez" target="_blank" >}}
+View on GitHub →
+{{< /button >}}
+
+### 📊 GitHub Repository
+
+{{< github repo="PBS-Mentoring-3era-Edicion/RentalKathyaPerez" >}}
+
 ---
 
 *This project was developed as part of my backend web development training, demonstrating competencies in PHP, MySQL, and web application architecture.*
