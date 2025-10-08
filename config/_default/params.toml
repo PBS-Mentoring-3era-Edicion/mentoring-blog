@@ -7,7 +7,7 @@ mainSections = [ "posts", "mentorias" ]
 firebase = { }
 fathomAnalytics = { }
 verification = { }
-defaultBackgroundImage = "pexels-divinetechygirl-1181354.jpg"
+defaultBackgroundImage = "pexels-joshsorenson-1054397.jp"
 
 [header]
 layout = "fixed"
