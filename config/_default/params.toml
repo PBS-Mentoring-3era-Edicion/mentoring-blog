@@ -20,7 +20,7 @@ showScrollToTop = true
 
 [homepage]
 layout = "background"
-homepageImage = "img/cover.jpg"
+homepageImage = "img/pexels-joshsorenson-1054397.jpg"
 showRecent = true
 showRecentItems = 3
 showMoreLink = true
