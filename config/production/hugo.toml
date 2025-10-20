@@ -1,0 +1,3 @@
+# Production config for Vercel deployment
+# This overrides the default baseURL for Vercel
+baseURL = "https://mentoring-blog.vercel.app/"
