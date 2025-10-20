@@ -1,4 +1,9 @@
 {
+  "build": {
+    "env": {
+      "HUGO_VERSION": "0.122.0"
+    }
+  },
   "functions": {
     "api/**/*.js": {
       "memory": 1024,
