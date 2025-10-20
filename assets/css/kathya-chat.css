@@ -148,6 +148,33 @@
     border-bottom-left-radius: 5px;
 }
 
+.bot-message.loading {
+    background: #f0f0f0;
+    border-color: #d0d0d0;
+}
+
+.bot-message.error {
+    background: #fee;
+    border-color: #fcc;
+    color: #c33;
+}
+
+.typing-indicator {
+    display: inline-block;
+    font-size: 20px;
+    letter-spacing: 2px;
+    animation: typing 1.4s infinite;
+}
+
+@keyframes typing {
+    0%, 60%, 100% {
+        opacity: 0.3;
+    }
+    30% {
+        opacity: 1;
+    }
+}
+
 .chat-input {
     padding: 15px;
     border-top: 1px solid #e0e0e0;

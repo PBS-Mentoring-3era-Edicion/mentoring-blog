@@ -2,6 +2,7 @@
   "name": "blowfish_template",
   "version": "1.0.0",
   "description": "Blowfish Template",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "dev": "hugo server --minify -D -E -F"
@@ -16,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/nunocoracao/blowfish_template/issues"
   },
-  "homepage": "https://github.com/nunocoracao/blowfish_template#readme"
+  "homepage": "https://github.com/nunocoracao/blowfish_template#readme",
+  "dependencies": {
+    "groq-sdk": "^0.7.0"
+  }
 }

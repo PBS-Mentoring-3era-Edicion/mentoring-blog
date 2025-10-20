@@ -47,7 +47,7 @@
         sendKathyaMessage();
     };
 
-    window.sendKathyaMessage = function() {
+    window.sendKathyaMessage = async function() {
         const input = document.getElementById('kathya-user-input');
         const message = input.value.trim();
         if (!message) return;
@@ -61,15 +61,51 @@
         userMsg.textContent = message;
         messagesDiv.appendChild(userMsg);
 
-        // Get and add bot response
-        const response = getKathyaResponse(message);
-        const botMsg = document.createElement('div');
-        botMsg.className = 'bot-message';
-        botMsg.innerHTML = response;
-        messagesDiv.appendChild(botMsg);
-
-        // Clear input
+        // Clear input immediately
         input.value = '';
+
+        // Add loading message
+        const loadingMsg = document.createElement('div');
+        loadingMsg.className = 'bot-message loading';
+        loadingMsg.innerHTML = '<span class="typing-indicator">●●●</span>';
+        messagesDiv.appendChild(loadingMsg);
+
+        // Scroll to bottom
+        chatBody.scrollTop = chatBody.scrollHeight;
+
+        try {
+            // Call Groq API via Vercel serverless function
+            const response = await fetch('/api/chat', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({ message: message })
+            });
+
+            const data = await response.json();
+
+            // Remove loading message
+            loadingMsg.remove();
+
+            // Add bot response
+            const botMsg = document.createElement('div');
+            botMsg.className = 'bot-message';
+            botMsg.textContent = data.response || data.error || 'Lo siento, no pude procesar tu mensaje.';
+            messagesDiv.appendChild(botMsg);
+
+        } catch (error) {
+            console.error('Error:', error);
+
+            // Remove loading message
+            loadingMsg.remove();
+
+            // Add error message
+            const errorMsg = document.createElement('div');
+            errorMsg.className = 'bot-message error';
+            errorMsg.textContent = 'Lo siento, hubo un error de conexión. Por favor intenta de nuevo.';
+            messagesDiv.appendChild(errorMsg);
+        }
 
         // Scroll to bottom
         setTimeout(() => {
