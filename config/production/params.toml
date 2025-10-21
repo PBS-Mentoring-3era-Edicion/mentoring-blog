@@ -1,0 +1,5 @@
+# Production config for Vercel deployment
+# Override paths that are specific to GitHub Pages
+
+[homepage]
+showMoreLinkDest = "/posts"

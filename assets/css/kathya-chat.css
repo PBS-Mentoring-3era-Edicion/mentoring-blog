@@ -192,6 +192,12 @@
     border-radius: 20px;
     outline: none;
     font-size: 14px;
+    color: #333;
+    background: white;
+}
+
+.chat-input input::placeholder {
+    color: #999;
 }
 
 .chat-input input:focus {
