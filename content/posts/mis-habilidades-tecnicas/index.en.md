@@ -439,15 +439,12 @@ public class PriceCalculator
 [![Cisco Badges](https://img.shields.io/badge/Credly-Cisco_Certifications-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/kathya-carolina-perez-jimenez)
 
 [![EF SET English](https://img.shields.io/badge/EF_SET-English_Certificate-0080FF?style=for-the-badge)](https://cert.efset.org/kKWaku)
+[![Udemy Python](https://img.shields.io/badge/Udemy-Python_TOTAL-A435F0?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/certificate/UC-08e6898d-fee6-473c-aadd-3d1a3a464718/)
 
-**Certificates pending verification links:**
-- Computer Hardware Basics
-- Operating Systems and You
-- System Administration and IT Infrastructure
-- IT Security: Defense against the Digital Dark Arts
-- The Bits and Bytes of Computer Networking
+**Note about Cisco certificates:** The individual Google IT Support courses (Computer Hardware Basics, Operating Systems, System Administration, IT Security, Computer Networking) and Cisco certificates (Cybersecurity, Modern AI, IoT) are verifiable on the Credly profile.
+
+**Certificates without verification link:**
 - Digital Awareness
-- Python TOTAL (Udemy)
 - Descubre Tu Vocación
 - Using Computer and Mobile Devices
 
