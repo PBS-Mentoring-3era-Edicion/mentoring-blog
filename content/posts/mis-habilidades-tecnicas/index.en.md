@@ -107,6 +107,32 @@ class FormValidator {
 - ✅ API consumption and AJAX
 - ✅ Modules and basic bundling
 
+## 🎨 Frameworks and Libraries
+
+### Spring Boot (Java)
+**Enterprise Backend Development:**
+- ✅ Microservices architecture
+- ✅ REST APIs with Spring MVC
+- ✅ Database integration (JPA/Hibernate)
+- ✅ Security with Spring Security
+- ✅ Dependency injection
+
+### Vue.js
+**Progressive Frontend Framework:**
+- ✅ Reactive components
+- ✅ Vue Router for SPA
+- ✅ Vuex for state management
+- ✅ Directives and computed properties
+- ✅ API integration
+
+### React
+**Modern UI Library:**
+- ✅ Functional components and hooks
+- ✅ JSX and virtual DOM
+- ✅ Props and state management
+- ✅ Lifecycle methods
+- ✅ Basic React Router
+
 ## 🎨 Frontend Technologies
 
 ### HTML5 & CSS3
@@ -212,6 +238,39 @@ DELIMITER ;
 - ✅ Indexes and query optimization
 - ✅ Stored procedures and triggers
 
+## 💻 Systems and Servers
+
+### Linux - System Administration
+**Linux Environment Competencies:**
+- ✅ Server configuration and administration
+- ✅ Terminal commands and Bash scripting
+- ✅ User and permission management
+- ✅ Service configuration (Apache, Nginx, MySQL)
+- ✅ Basic cloud application deployment
+- ✅ Process management and resource monitoring
+
+**Practical Experience:**
+```bash
+# Web application deployment
+sudo systemctl start nginx
+sudo systemctl enable mysql
+
+# Permission management
+chmod 755 /var/www/html
+chown -R www-data:www-data /var/www
+
+# Service monitoring
+sudo systemctl status apache2
+tail -f /var/log/nginx/error.log
+```
+
+### Web Server Configuration
+- ✅ Apache HTTP Server
+- ✅ Nginx (reverse proxy and web server)
+- ✅ Virtual hosts configuration
+- ✅ SSL/TLS and certificates
+- ✅ Performance optimization
+
 ## 🛠️ Development Tools
 
 ### Visual Studio & VS Code
@@ -270,6 +329,16 @@ my-project/
 - ✅ **User Stories**: Requirements definition
 - ✅ **Testing**: Unit tests and manual testing
 
+## 🎯 Soft Skills
+
+### Professional Aptitudes
+- 💡 **Problem Solving**: Systematic analysis and creative solutions
+- 👥 **Teamwork**: Effective collaboration and clear communication
+- ⚡ **Responsibility**: Commitment to deliveries and code quality
+- 🚀 **Proactivity**: Initiative to learn and continuously improve
+- 🔄 **Adaptability**: Flexibility with new technologies and methodologies
+- 📚 **Continuous Learning**: Self-taught with passion for new technologies
+
 ### Clean Code
 ```csharp
 // Clean and well-documented code
@@ -295,19 +364,73 @@ public class PriceCalculator
 }
 ```
 
+## 🎓 Professional Certifications
+
+### Google IT Support Professional Certificate (2025)
+Professional certification composed of 6 specialized courses:
+
+**Knowledge Areas:**
+- ✅ **Technical Support**: Troubleshooting, hardware and software problem resolution
+- ✅ **Networking**: Network configuration and administration, TCP/IP protocols, DNS, DHCP
+- ✅ **Operating Systems**: Windows, Linux, system administration
+- ✅ **System Administration**: User management, permissions, group policies
+- ✅ **IT Infrastructure**: Server configuration, network services
+- ✅ **Cybersecurity**: System protection, corporate security policies
+- ✅ **Equipment Configuration**: Installation and maintenance of enterprise hardware
+
+**Completed Certificates:**
+1. ✅ Technical Support Fundamentals
+2. ✅ Computer Hardware Basics
+3. ✅ Operating Systems and You: Becoming a Power User
+4. ✅ System Administration and IT Infrastructure Services
+5. ✅ IT Security: Defense against the Digital Dark Arts
+6. ✅ The Bits and Bytes of Computer Networking
+
+### Cisco Networking Academy (2025)
+
+#### Introduction to Cybersecurity
+**Developed Competencies:**
+- ✅ Digital security principles and threat analysis
+- ✅ Identification and mitigation of modern attacks
+- ✅ Network and system protection
+- ✅ Encryption implementation and security policies
+- ✅ Defense fundamentals in corporate environments
+- ✅ Security practices and incident response
+
+#### Introduction to Modern AI
+**Acquired Knowledge:**
+- ✅ Artificial intelligence fundamentals
+- ✅ Machine Learning and learning algorithms
+- ✅ Modern algorithms and training techniques
+- ✅ Process automation with AI
+- ✅ Current AI applications in the IT industry
+- ✅ Ethics and best practices in AI implementation
+
+### Other Completed Courses and Certifications
+
+#### Google Courses (Coursera/Cisco Academy)
+- ✅ **Accelerate Your Job Search with AI** - Job search optimization
+- ✅ **Digital Awareness** - Digital awareness and online security
+- ✅ **EF SET Certificate** - Certified English level
+- ✅ **Python TOTAL - Advanced Programmer in 16 days** (Udemy)
+- ✅ **Introduction to IoT** - Internet of Things
+- ✅ **Descubre Tu Vocación** - Professional development
+- ✅ **Using Computer and Mobile Devices** - Effective use of technology
+
 ## 🚀 Next Steps in My Development
 
 ### Technologies in Learning
 - [ ] **React.js**: Modern frontend framework
-- [ ] **Node.js**: JavaScript on the backend
+- [ ] **Vue.js**: Progressive framework for interfaces
+- [ ] **Spring Boot**: Java framework for backend
 - [ ] **Docker**: Application containerization
-- [ ] **Azure**: Cloud computing and DevOps
-- [ ] **TypeScript**: JavaScript with static types
+- [ ] **Azure/AWS**: Cloud computing and DevOps
 
-### Planned Certifications
-- [ ] Microsoft Azure Fundamentals
-- [ ] Oracle Database SQL Certified
-- [ ] Scrum Master Certification
+### Certifications in Progress
+- [ ] **Cisco CCNA**: Networking fundamentals
+- [ ] **CompTIA A+**: Hardware and software fundamentals
+- [ ] **Microsoft Azure Fundamentals**
+- [ ] **Oracle Database SQL Certified**
 
 ## 💡 My Development Philosophy
 

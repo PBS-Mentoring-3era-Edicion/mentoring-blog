@@ -107,6 +107,32 @@ class FormValidator {
 - ✅ Consumo de APIs y AJAX
 - ✅ Módulos y bundling básico
 
+## 🎨 Frameworks y Librerías
+
+### Spring Boot (Java)
+**Desarrollo Backend Empresarial:**
+- ✅ Arquitectura de microservicios
+- ✅ REST APIs con Spring MVC
+- ✅ Integración con bases de datos (JPA/Hibernate)
+- ✅ Seguridad con Spring Security
+- ✅ Inyección de dependencias
+
+### Vue.js
+**Framework Frontend Progresivo:**
+- ✅ Componentes reactivos
+- ✅ Vue Router para SPA
+- ✅ Vuex para gestión de estado
+- ✅ Directivas y computed properties
+- ✅ Integración con APIs
+
+### React
+**Biblioteca UI Moderna:**
+- ✅ Componentes funcionales y hooks
+- ✅ JSX y virtual DOM
+- ✅ Props y state management
+- ✅ Lifecycle methods
+- ✅ React Router básico
+
 ## 🎨 Tecnologías Frontend
 
 ### HTML5 & CSS3
@@ -212,6 +238,39 @@ DELIMITER ;
 - ✅ Índices y optimización de queries
 - ✅ Procedimientos almacenados y triggers
 
+## 💻 Sistemas y Servidores
+
+### Linux - Administración de Sistemas
+**Competencias en Entornos Linux:**
+- ✅ Configuración y administración de servidores
+- ✅ Comandos de terminal y scripting Bash
+- ✅ Gestión de usuarios y permisos
+- ✅ Configuración de servicios (Apache, Nginx, MySQL)
+- ✅ Deploy básico de aplicaciones en la nube
+- ✅ Manejo de procesos y monitoreo de recursos
+
+**Experiencia Práctica:**
+```bash
+# Deploy de aplicación web
+sudo systemctl start nginx
+sudo systemctl enable mysql
+
+# Gestión de permisos
+chmod 755 /var/www/html
+chown -R www-data:www-data /var/www
+
+# Monitoreo de servicios
+sudo systemctl status apache2
+tail -f /var/log/nginx/error.log
+```
+
+### Configuración de Servidores Web
+- ✅ Apache HTTP Server
+- ✅ Nginx (proxy reverso y servidor web)
+- ✅ Configuración de virtual hosts
+- ✅ SSL/TLS y certificados
+- ✅ Optimización de performance
+
 ## 🛠️ Herramientas de Desarrollo
 
 ### Visual Studio & VS Code
@@ -270,6 +329,16 @@ mi-proyecto/
 - ✅ **User Stories**: Definición de requerimientos
 - ✅ **Testing**: Unit tests y testing manual
 
+## 🎯 Habilidades Blandas (Soft Skills)
+
+### Aptitudes Profesionales
+- 💡 **Resolución de Problemas**: Análisis sistemático y soluciones creativas
+- 👥 **Trabajo en Equipo**: Colaboración efectiva y comunicación clara
+- ⚡ **Responsabilidad**: Compromiso con entregas y calidad del código
+- 🚀 **Proactividad**: Iniciativa para aprender y mejorar continuamente
+- 🔄 **Adaptabilidad**: Flexibilidad ante nuevas tecnologías y metodologías
+- 📚 **Aprendizaje Continuo**: Autodidacta con pasión por nuevas tecnologías
+
 ### Clean Code
 ```csharp
 // Código limpio y bien documentado
@@ -295,19 +364,73 @@ public class CalculadoraPrecios
 }
 ```
 
+## 🎓 Certificaciones Profesionales
+
+### Google IT Support Professional Certificate (2025)
+Certificación profesional compuesta por 6 cursos especializados:
+
+**Áreas de Conocimiento:**
+- ✅ **Soporte Técnico**: Troubleshooting, resolución de problemas de hardware y software
+- ✅ **Redes**: Configuración y administración de redes, protocolos TCP/IP, DNS, DHCP
+- ✅ **Sistemas Operativos**: Windows, Linux, administración de sistemas
+- ✅ **Administración de Sistemas**: Gestión de usuarios, permisos, políticas de grupo
+- ✅ **Infraestructura TI**: Configuración de servidores, servicios de red
+- ✅ **Ciberseguridad**: Protección de sistemas, políticas de seguridad corporativa
+- ✅ **Configuración de Equipos**: Instalación y mantenimiento de hardware empresarial
+
+**Certificados Completados:**
+1. ✅ Technical Support Fundamentals
+2. ✅ Computer Hardware Basics
+3. ✅ Operating Systems and You: Becoming a Power User
+4. ✅ System Administration and IT Infrastructure Services
+5. ✅ IT Security: Defense against the Digital Dark Arts
+6. ✅ The Bits and Bytes of Computer Networking
+
+### Cisco Networking Academy (2025)
+
+#### Introduction to Cybersecurity
+**Competencias Desarrolladas:**
+- ✅ Principios de seguridad digital y análisis de amenazas
+- ✅ Identificación y mitigación de ataques modernos
+- ✅ Protección de redes y sistemas
+- ✅ Implementación de cifrado y políticas de seguridad
+- ✅ Fundamentos de defensa en entornos corporativos
+- ✅ Prácticas de seguridad y respuesta a incidentes
+
+#### Introduction to Modern AI
+**Conocimientos Adquiridos:**
+- ✅ Fundamentos de inteligencia artificial
+- ✅ Machine Learning y algoritmos de aprendizaje
+- ✅ Algoritmos modernos y técnicas de entrenamiento
+- ✅ Automatización de procesos con IA
+- ✅ Aplicaciones actuales de IA en la industria TI
+- ✅ Ética y mejores prácticas en implementación de IA
+
+### Otros Cursos y Certificaciones Completados
+
+#### Google Courses (Coursera/Cisco Academy)
+- ✅ **Accelerate Your Job Search with AI** - Optimización de búsqueda laboral
+- ✅ **Digital Awareness** - Conciencia digital y seguridad online
+- ✅ **EF SET Certificate** - Nivel de inglés certificado
+- ✅ **Python TOTAL - Programador Avanzado en 16 días** (Udemy)
+- ✅ **Introduction to IoT** - Internet de las cosas
+- ✅ **Descubre Tu Vocación** - Desarrollo profesional
+- ✅ **Using Computer and Mobile Devices** - Uso efectivo de tecnología
+
 ## 🚀 Próximos Pasos en mi Desarrollo
 
 ### Tecnologías en Aprendizaje
 - [ ] **React.js**: Framework frontend moderno
-- [ ] **Node.js**: JavaScript en el backend
+- [ ] **Vue.js**: Framework progresivo para interfaces
+- [ ] **Spring Boot**: Framework Java para backend
 - [ ] **Docker**: Containerización de aplicaciones
-- [ ] **Azure**: Cloud computing y DevOps
-- [ ] **TypeScript**: JavaScript con tipos estáticos
+- [ ] **Azure/AWS**: Cloud computing y DevOps
 
-### Certificaciones Planeadas
-- [ ] Microsoft Azure Fundamentals
-- [ ] Oracle Database SQL Certified
-- [ ] Scrum Master Certification
+### Certificaciones en Progreso
+- [ ] **Cisco CCNA**: Networking fundamentals
+- [ ] **CompTIA A+**: Hardware y software fundamentals
+- [ ] **Microsoft Azure Fundamentals**
+- [ ] **Oracle Database SQL Certified**
 
 ## 💡 Mi Filosofía de Desarrollo
 
