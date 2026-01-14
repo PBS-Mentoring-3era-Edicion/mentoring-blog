@@ -369,7 +369,7 @@ public class CalculadoraPrecios
 ### Google IT Support Professional Certificate (2025)
 Certificación profesional compuesta por 6 cursos especializados:
 
-[![Google IT Support](https://img.shields.io/badge/Coursera-Certificate-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/professional-certificates/google-it-support)
+[![Google IT Support](https://img.shields.io/badge/Coursera-Verificar_Certificado-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](https://coursera.org/verify/professional-cert/V9B53STR6554)
 
 **Áreas de Conocimiento:**
 - ✅ **Soporte Técnico**: Troubleshooting, resolución de problemas de hardware y software
@@ -391,7 +391,7 @@ Certificación profesional compuesta por 6 cursos especializados:
 ### Cisco Networking Academy (2025)
 
 #### Introduction to Cybersecurity
-[![Cisco Cybersecurity](https://img.shields.io/badge/Cisco-Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.netacad.com/courses/cybersecurity/introduction-cybersecurity)
+[![Cisco Cybersecurity](https://img.shields.io/badge/Cisco-Ver_Badges-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/users/kathya-carolina-perez-jimenez)
 
 **Competencias Desarrolladas:**
 - ✅ Principios de seguridad digital y análisis de amenazas
@@ -402,7 +402,7 @@ Certificación profesional compuesta por 6 cursos especializados:
 - ✅ Prácticas de seguridad y respuesta a incidentes
 
 #### Introduction to Modern AI
-[![Cisco AI](https://img.shields.io/badge/Cisco-Modern_AI-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.netacad.com/courses/ai)
+[![Cisco AI](https://img.shields.io/badge/Cisco-Ver_Badges-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/users/kathya-carolina-perez-jimenez)
 
 **Conocimientos Adquiridos:**
 - ✅ Fundamentos de inteligencia artificial
@@ -416,9 +416,10 @@ Certificación profesional compuesta por 6 cursos especializados:
 
 #### Google Courses (Coursera/Cisco Academy)
 - ✅ **Accelerate Your Job Search with AI** - Optimización de búsqueda laboral
+  [![Coursera](https://img.shields.io/badge/Coursera-Verificar-0056D2?style=flat-square&logo=coursera)](https://coursera.org/verify/4PL1TBZNZGLO)
 - ✅ **Digital Awareness** - Conciencia digital y seguridad online
 - ✅ **EF SET Certificate** - Nivel de inglés certificado
-  [![EF SET](https://img.shields.io/badge/EF_SET-English_Certificate-FF6600?style=flat-square)](https://www.efset.org/)
+  [![EF SET](https://img.shields.io/badge/EF_SET-Verificar_Certificado-FF6600?style=flat-square)](https://cert.efset.org/kKWaku)
 - ✅ **Python TOTAL - Programador Avanzado en 16 días** (Udemy)
   [![Udemy Python](https://img.shields.io/badge/Udemy-Python_TOTAL-A435F0?style=flat-square&logo=udemy&logoColor=white)](https://www.udemy.com/)
 - ✅ **Introduction to IoT** - Internet de las cosas

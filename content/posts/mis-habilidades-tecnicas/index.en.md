@@ -369,7 +369,7 @@ public class PriceCalculator
 ### Google IT Support Professional Certificate (2025)
 Professional certification composed of 6 specialized courses:
 
-[![Google IT Support](https://img.shields.io/badge/Coursera-Certificate-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/professional-certificates/google-it-support)
+[![Google IT Support](https://img.shields.io/badge/Coursera-Verify_Certificate-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](https://coursera.org/verify/professional-cert/V9B53STR6554)
 
 **Knowledge Areas:**
 - ✅ **Technical Support**: Troubleshooting, hardware and software problem resolution
@@ -391,7 +391,7 @@ Professional certification composed of 6 specialized courses:
 ### Cisco Networking Academy (2025)
 
 #### Introduction to Cybersecurity
-[![Cisco Cybersecurity](https://img.shields.io/badge/Cisco-Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.netacad.com/courses/cybersecurity/introduction-cybersecurity)
+[![Cisco Cybersecurity](https://img.shields.io/badge/Cisco-View_Badges-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/users/kathya-carolina-perez-jimenez)
 
 **Developed Competencies:**
 - ✅ Digital security principles and threat analysis
@@ -402,7 +402,7 @@ Professional certification composed of 6 specialized courses:
 - ✅ Security practices and incident response
 
 #### Introduction to Modern AI
-[![Cisco AI](https://img.shields.io/badge/Cisco-Modern_AI-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.netacad.com/courses/ai)
+[![Cisco AI](https://img.shields.io/badge/Cisco-View_Badges-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/users/kathya-carolina-perez-jimenez)
 
 **Acquired Knowledge:**
 - ✅ Artificial intelligence fundamentals
@@ -416,9 +416,10 @@ Professional certification composed of 6 specialized courses:
 
 #### Google Courses (Coursera/Cisco Academy)
 - ✅ **Accelerate Your Job Search with AI** - Job search optimization
+  [![Coursera](https://img.shields.io/badge/Coursera-Verify-0056D2?style=flat-square&logo=coursera)](https://coursera.org/verify/4PL1TBZNZGLO)
 - ✅ **Digital Awareness** - Digital awareness and online security
 - ✅ **EF SET Certificate** - Certified English level
-  [![EF SET](https://img.shields.io/badge/EF_SET-English_Certificate-FF6600?style=flat-square)](https://www.efset.org/)
+  [![EF SET](https://img.shields.io/badge/EF_SET-Verify_Certificate-FF6600?style=flat-square)](https://cert.efset.org/kKWaku)
 - ✅ **Python TOTAL - Advanced Programmer in 16 days** (Udemy)
   [![Udemy Python](https://img.shields.io/badge/Udemy-Python_TOTAL-A435F0?style=flat-square&logo=udemy&logoColor=white)](https://www.udemy.com/)
 - ✅ **Introduction to IoT** - Internet of Things
