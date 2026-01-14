@@ -366,10 +366,10 @@ public class CalculadoraPrecios
 
 ## 🎓 Certificaciones Profesionales
 
-### Google IT Support Professional Certificate (2025)
-Certificación profesional compuesta por 6 cursos especializados:
+> 🔗 **Verificación de Credenciales**: Todos los certificados listados son verificables mediante los enlaces proporcionados al final de esta sección.
 
-[![Google IT Support](https://img.shields.io/badge/Coursera-Verificar_Certificado-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](https://coursera.org/verify/professional-cert/V9B53STR6554)
+### Google IT Support Professional Certificate (2025)
+**Certificación profesional compuesta por 6 cursos especializados**
 
 **Áreas de Conocimiento:**
 - ✅ **Soporte Técnico**: Troubleshooting, resolución de problemas de hardware y software
@@ -390,9 +390,9 @@ Certificación profesional compuesta por 6 cursos especializados:
 
 ### Cisco Networking Academy (2025)
 
-#### Introduction to Cybersecurity
-[![Cisco Cybersecurity](https://img.shields.io/badge/Cisco-Ver_Badges-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/users/kathya-carolina-perez-jimenez)
+**Certificaciones en Ciberseguridad e Inteligencia Artificial:**
 
+#### Introduction to Cybersecurity
 **Competencias Desarrolladas:**
 - ✅ Principios de seguridad digital y análisis de amenazas
 - ✅ Identificación y mitigación de ataques modernos
@@ -402,8 +402,6 @@ Certificación profesional compuesta por 6 cursos especializados:
 - ✅ Prácticas de seguridad y respuesta a incidentes
 
 #### Introduction to Modern AI
-[![Cisco AI](https://img.shields.io/badge/Cisco-Ver_Badges-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/users/kathya-carolina-perez-jimenez)
-
 **Conocimientos Adquiridos:**
 - ✅ Fundamentos de inteligencia artificial
 - ✅ Machine Learning y algoritmos de aprendizaje
@@ -412,19 +410,45 @@ Certificación profesional compuesta por 6 cursos especializados:
 - ✅ Aplicaciones actuales de IA en la industria TI
 - ✅ Ética y mejores prácticas en implementación de IA
 
-### Otros Cursos y Certificaciones Completados
+#### Introduction to IoT
+**Internet de las Cosas:**
+- ✅ Fundamentos de IoT y dispositivos conectados
+- ✅ Arquitectura de redes IoT
+- ✅ Seguridad en dispositivos IoT
 
-#### Google Courses (Coursera/Cisco Academy)
-- ✅ **Accelerate Your Job Search with AI** - Optimización de búsqueda laboral
-  [![Coursera](https://img.shields.io/badge/Coursera-Verificar-0056D2?style=flat-square&logo=coursera)](https://coursera.org/verify/4PL1TBZNZGLO)
+### Otras Certificaciones Completadas
+
+#### Desarrollo Profesional y Habilidades
+- ✅ **Accelerate Your Job Search with AI** - Optimización de búsqueda laboral con IA
 - ✅ **Digital Awareness** - Conciencia digital y seguridad online
-- ✅ **EF SET Certificate** - Nivel de inglés certificado
-  [![EF SET](https://img.shields.io/badge/EF_SET-Verificar_Certificado-FF6600?style=flat-square)](https://cert.efset.org/kKWaku)
-- ✅ **Python TOTAL - Programador Avanzado en 16 días** (Udemy)
-  [![Udemy Python](https://img.shields.io/badge/Udemy-Python_TOTAL-A435F0?style=flat-square&logo=udemy&logoColor=white)](https://www.udemy.com/)
-- ✅ **Introduction to IoT** - Internet de las cosas
-- ✅ **Descubre Tu Vocación** - Desarrollo profesional
+- ✅ **Descubre Tu Vocación** - Orientación y desarrollo profesional
 - ✅ **Using Computer and Mobile Devices** - Uso efectivo de tecnología
+
+#### Idiomas y Programación
+- ✅ **EF SET English Certificate** - Certificación de nivel de inglés
+- ✅ **Python TOTAL - Programador Avanzado en 16 días** (Udemy) - Programación Python avanzada
+
+---
+
+### 🔐 Verificar Certificados
+
+[![Google IT Support](https://img.shields.io/badge/Coursera-Google_IT_Support-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](https://coursera.org/verify/professional-cert/V9B53STR6554)
+[![Accelerate Job Search](https://img.shields.io/badge/Coursera-Job_Search_AI-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](https://coursera.org/verify/4PL1TBZNZGLO)
+
+[![Cisco Badges](https://img.shields.io/badge/Credly-Cisco_Certifications-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/kathya-carolina-perez-jimenez)
+
+[![EF SET English](https://img.shields.io/badge/EF_SET-English_Certificate-0080FF?style=for-the-badge)](https://cert.efset.org/kKWaku)
+
+**Certificados pendientes de links de verificación:**
+- Computer Hardware Basics
+- Operating Systems and You
+- System Administration and IT Infrastructure
+- IT Security: Defense against the Digital Dark Arts
+- The Bits and Bytes of Computer Networking
+- Digital Awareness
+- Python TOTAL (Udemy)
+- Descubre Tu Vocación
+- Using Computer and Mobile Devices
 
 ---
 

@@ -366,10 +366,10 @@ public class PriceCalculator
 
 ## 🎓 Professional Certifications
 
-### Google IT Support Professional Certificate (2025)
-Professional certification composed of 6 specialized courses:
+> 🔗 **Credential Verification**: All listed certificates are verifiable through the links provided at the end of this section.
 
-[![Google IT Support](https://img.shields.io/badge/Coursera-Verify_Certificate-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](https://coursera.org/verify/professional-cert/V9B53STR6554)
+### Google IT Support Professional Certificate (2025)
+**Professional certification composed of 6 specialized courses**
 
 **Knowledge Areas:**
 - ✅ **Technical Support**: Troubleshooting, hardware and software problem resolution
@@ -390,9 +390,9 @@ Professional certification composed of 6 specialized courses:
 
 ### Cisco Networking Academy (2025)
 
-#### Introduction to Cybersecurity
-[![Cisco Cybersecurity](https://img.shields.io/badge/Cisco-View_Badges-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/users/kathya-carolina-perez-jimenez)
+**Certifications in Cybersecurity and Artificial Intelligence:**
 
+#### Introduction to Cybersecurity
 **Developed Competencies:**
 - ✅ Digital security principles and threat analysis
 - ✅ Identification and mitigation of modern attacks
@@ -402,8 +402,6 @@ Professional certification composed of 6 specialized courses:
 - ✅ Security practices and incident response
 
 #### Introduction to Modern AI
-[![Cisco AI](https://img.shields.io/badge/Cisco-View_Badges-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/users/kathya-carolina-perez-jimenez)
-
 **Acquired Knowledge:**
 - ✅ Artificial intelligence fundamentals
 - ✅ Machine Learning and learning algorithms
@@ -412,23 +410,48 @@ Professional certification composed of 6 specialized courses:
 - ✅ Current AI applications in the IT industry
 - ✅ Ethics and best practices in AI implementation
 
-### Other Completed Courses and Certifications
+#### Introduction to IoT
+**Internet of Things:**
+- ✅ IoT fundamentals and connected devices
+- ✅ IoT network architecture
+- ✅ IoT device security
 
-#### Google Courses (Coursera/Cisco Academy)
-- ✅ **Accelerate Your Job Search with AI** - Job search optimization
-  [![Coursera](https://img.shields.io/badge/Coursera-Verify-0056D2?style=flat-square&logo=coursera)](https://coursera.org/verify/4PL1TBZNZGLO)
+### Other Completed Certifications
+
+#### Professional Development and Skills
+- ✅ **Accelerate Your Job Search with AI** - Job search optimization with AI
 - ✅ **Digital Awareness** - Digital awareness and online security
-- ✅ **EF SET Certificate** - Certified English level
-  [![EF SET](https://img.shields.io/badge/EF_SET-Verify_Certificate-FF6600?style=flat-square)](https://cert.efset.org/kKWaku)
-- ✅ **Python TOTAL - Advanced Programmer in 16 days** (Udemy)
-  [![Udemy Python](https://img.shields.io/badge/Udemy-Python_TOTAL-A435F0?style=flat-square&logo=udemy&logoColor=white)](https://www.udemy.com/)
 - ✅ **Introduction to IoT** - Internet of Things
 - ✅ **Descubre Tu Vocación** - Professional development
 - ✅ **Using Computer and Mobile Devices** - Effective use of technology
 
+#### Languages and Programming
+- ✅ **EF SET English Certificate** - English proficiency certification
+- ✅ **Python TOTAL - Advanced Programmer in 16 days** (Udemy) - Advanced Python programming
+
 ---
 
-📌 **Note**: All certificates are verifiable on their respective platforms (Coursera, Cisco NetAcad, Udemy).
+### 🔐 Verify Certificates
+
+[![Google IT Support](https://img.shields.io/badge/Coursera-Google_IT_Support-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](https://coursera.org/verify/professional-cert/V9B53STR6554)
+[![Accelerate Job Search](https://img.shields.io/badge/Coursera-Job_Search_AI-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](https://coursera.org/verify/4PL1TBZNZGLO)
+
+[![Cisco Badges](https://img.shields.io/badge/Credly-Cisco_Certifications-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/kathya-carolina-perez-jimenez)
+
+[![EF SET English](https://img.shields.io/badge/EF_SET-English_Certificate-0080FF?style=for-the-badge)](https://cert.efset.org/kKWaku)
+
+**Certificates pending verification links:**
+- Computer Hardware Basics
+- Operating Systems and You
+- System Administration and IT Infrastructure
+- IT Security: Defense against the Digital Dark Arts
+- The Bits and Bytes of Computer Networking
+- Digital Awareness
+- Python TOTAL (Udemy)
+- Descubre Tu Vocación
+- Using Computer and Mobile Devices
+
+---
 
 ## 🚀 Next Steps in My Development
 
