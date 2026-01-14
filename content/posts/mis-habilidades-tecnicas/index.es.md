@@ -369,6 +369,8 @@ public class CalculadoraPrecios
 ### Google IT Support Professional Certificate (2025)
 Certificación profesional compuesta por 6 cursos especializados:
 
+[![Google IT Support](https://img.shields.io/badge/Coursera-Certificate-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/professional-certificates/google-it-support)
+
 **Áreas de Conocimiento:**
 - ✅ **Soporte Técnico**: Troubleshooting, resolución de problemas de hardware y software
 - ✅ **Redes**: Configuración y administración de redes, protocolos TCP/IP, DNS, DHCP
@@ -389,6 +391,8 @@ Certificación profesional compuesta por 6 cursos especializados:
 ### Cisco Networking Academy (2025)
 
 #### Introduction to Cybersecurity
+[![Cisco Cybersecurity](https://img.shields.io/badge/Cisco-Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.netacad.com/courses/cybersecurity/introduction-cybersecurity)
+
 **Competencias Desarrolladas:**
 - ✅ Principios de seguridad digital y análisis de amenazas
 - ✅ Identificación y mitigación de ataques modernos
@@ -398,6 +402,8 @@ Certificación profesional compuesta por 6 cursos especializados:
 - ✅ Prácticas de seguridad y respuesta a incidentes
 
 #### Introduction to Modern AI
+[![Cisco AI](https://img.shields.io/badge/Cisco-Modern_AI-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.netacad.com/courses/ai)
+
 **Conocimientos Adquiridos:**
 - ✅ Fundamentos de inteligencia artificial
 - ✅ Machine Learning y algoritmos de aprendizaje
@@ -412,10 +418,16 @@ Certificación profesional compuesta por 6 cursos especializados:
 - ✅ **Accelerate Your Job Search with AI** - Optimización de búsqueda laboral
 - ✅ **Digital Awareness** - Conciencia digital y seguridad online
 - ✅ **EF SET Certificate** - Nivel de inglés certificado
+  [![EF SET](https://img.shields.io/badge/EF_SET-English_Certificate-FF6600?style=flat-square)](https://www.efset.org/)
 - ✅ **Python TOTAL - Programador Avanzado en 16 días** (Udemy)
+  [![Udemy Python](https://img.shields.io/badge/Udemy-Python_TOTAL-A435F0?style=flat-square&logo=udemy&logoColor=white)](https://www.udemy.com/)
 - ✅ **Introduction to IoT** - Internet de las cosas
 - ✅ **Descubre Tu Vocación** - Desarrollo profesional
 - ✅ **Using Computer and Mobile Devices** - Uso efectivo de tecnología
+
+---
+
+📌 **Nota**: Todos los certificados están verificables en las plataformas correspondientes (Coursera, Cisco NetAcad, Udemy).
 
 ## 🚀 Próximos Pasos en mi Desarrollo
 
